@@ -892,7 +892,7 @@ Implementations of the (standard-mandated) C standard library.
   It is a conglomeration of several library parts, all under [free software licenses][43]
   that make them easily usable on embedded products.
 * [picolibc][44] - picolibc - a C library designed for embedded 32- and 64- bit systems.
-  Various licenses, all under [free software licenses][45]
+  Various licenses, all are [free software licenses][45]
 
 ## String Manipulation ##
 
