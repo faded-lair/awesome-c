@@ -446,6 +446,8 @@ Engines, libraries and other helpful things specifically for making games.
   [``MIT-0``][MIT-0]
 * [TIGR][424] - TIGR - the TIny GRaphics library for Windows, macOS, Linux, iOS and Android.
   [``Unlicense``][Unlicense]
+* [linmath.h][52] - a lean linear math library, aimed at graphics programming.
+  Supports vec3, vec4, mat4x4 and quaternions [``WTFPL``][WTFPL]
 
 ## Graphics ##
 
@@ -1292,7 +1294,7 @@ support for C.
 [49]: https://github.com/vasi/pixz
 [50]: https://www.libsdl.org/
 [51]: https://redis.io/
-[52]: http://zeromq.org/
+[52]: https://github.com/datenwolf/linmath.h
 [53]: http://www.digip.org/jansson/
 [54]: http://www.colm.net/open-source/ragel/
 [55]: https://dl.acm.org/citation.cfm?id=179241
