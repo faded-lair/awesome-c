@@ -408,6 +408,7 @@ Big libraries that provide data structures and other stuff you expect of a
 * [TBOX][398] - Multi-platform library with a large number of
   capabilities. [``Apache-2.0``][Apache-2.0]
 * [pspsdk][620] - An open-source SDK for PSP homebrew development. [Various licences][621].
+* [gear-lib][627] - Gear-Lib, C library for IOT Embedded Multimedia and Network. [``MIT``][MIT]
 
 ## Game Programming ##
 
@@ -1861,6 +1862,7 @@ support for C.
 [624]: https://sigrok.org/wiki/Libsigrok
 [625]: https://github.com/floooh/sokol
 [626]: https://github.com/edubart/sokol_gp
+[627]: https://github.com/gozfree/gear-lib
 
 [700]: https://viewsourcecode.org/snaptoken/kilo/
 [701]: https://wiki.gnome.org/Projects/GLib
