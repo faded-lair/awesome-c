@@ -914,7 +914,7 @@ Implementations of the (standard-mandated) C standard library.
   simpler way, but one that is compatible with normal C string
   functions. Available via [clib][26]. [``BSD-2-Clause``][BSD-2-Clause]
 * [stmr.c][383] - [Porter Stemmer][367] algorithm implementation. [``MIT``][MIT]
-* [str][587] - Yet another string library for C language. [``BSD-3-Clause``][BSD-3-Clause]
+* [str][633] - Yet another string library for C language. [``BSD-3-Clause``][BSD-3-Clause]
 * [StringZilla][623] - Up to 10x faster SIMD and SWAR-accelerated
   string search, sort, hashes, edit distances, alignments, and generators.
   [``Apache-2.0``][Apache-2.0]
@@ -1827,7 +1827,7 @@ support for C.
 [584]: https://github.com/msune/autotools-skeleton
 [585]: https://msune.github.io/libcdada/
 [586]: https://github.com/ariya/fastlz
-[587]: https://github.com/maxim2266/str
+[587]: https://github.com/nih-at/libzip
 [588]: https://github.com/saprykin/plibsys
 [589]: https://github.com/Jorengarenar/libXDGdirs
 [590]: https://github.com/sammycage/plutovg
@@ -1873,4 +1873,5 @@ support for C.
 [630]: https://github.com/CObjectSystem/COS
 [631]: https://github.com/LADSoft/OrangeC
 [632]: https://github.com/LADSoft/OrangeC/blob/master/LICENSE.TXT
+[633]: https://github.com/maxim2266/str
 
