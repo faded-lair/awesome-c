@@ -888,6 +888,11 @@ Implementations of the (standard-mandated) C standard library.
   C11. [``CC0-1.0``][CC0-1.0]
 * [uClibc-ng][12] - Small C library for developing embedded systems.
   [``LGPL-2.1-or-later``][LGPL-2.1-or-later]
+* [Newlib][42] - Newlib is a C library intended for use on embedded systems.
+  It is a conglomeration of several library parts, all under [free software licenses][43]
+  that make them easily usable on embedded products.
+* [picolibc][44] - picolibc - a C library designed for embedded 32- and 64- bit systems.
+  Various licenses, all under [free software licenses][45]
 
 ## String Manipulation ##
 
@@ -911,6 +916,8 @@ Implementations of the (standard-mandated) C standard library.
 * [utf8.h][472] - Single-header UTF-8 library, designed to mimic C-style string functions.
   Public domain.
 * [utf8proc][469] - Library for processing UTF-8 data. [``MIT``][MIT]
+* [cuneicode][6] - A C library for converting between two different encodings in a simple,
+  easy, and powerful way. [``Apache-2.0``][Apache-2.0]
 
 ## Structured File Processing ##
 
@@ -1234,7 +1241,7 @@ support for C.
 [3]: https://github.com/dertuxmalwieder/libvldmail
 [4]: https://github.com/aosp-mirror/platform_bionic
 [5]: https://github.com/yhfudev/cpp-ci-unit-test.git
-
+[6]: https://github.com/soasis/cuneicode
 [7]: https://en.wikipedia.org/wiki/The_C_Programming_Language
 [8]: https://github.com/json-c/json-c
 [9]: https://www.fefe.de/dietlibc/
@@ -1270,7 +1277,10 @@ support for C.
 [39]: https://github.com/recp/json
 [40]: https://gcc.gnu.org/
 [41]: https://github.com/libgit2/libgit2/blob/master/COPYING
-
+[42]: https://sourceware.org/newlib/
+[43]: https://sourceware.org/newlib/COPYING.NEWLIB
+[44]: https://github.com/picolibc/picolibc
+[45]: https://github.com/picolibc/picolibc/blob/main/COPYING.picolibc
 [46]: https://www.gnu.org/software/gnulib/
 [47]: https://www.gnu.org/software/gsl/
 [48]: https://liballeg.org
