@@ -536,9 +536,6 @@ to C programming.
 * [Benchmarks of the Lockless Memory Allocator][450]
 * [C FAQ - comp.lang.c Frequently Asked Questions][262]
 * [Comparison of C/POSIX standard library implementations for Linux][362]
-* [Draft C89 standard][6]
-* [Draft C99 standard][258]
-* [Draft C11 standard][247]
 * [Finding the best 64-bit simulation PRNG][529]
 * [SEI CERT C Coding Standard][266]
 * [tinyc.game][559] - Tiny C games you can compile and run RIGHT NOW
@@ -1237,7 +1234,7 @@ support for C.
 [3]: https://github.com/dertuxmalwieder/libvldmail
 [4]: https://github.com/aosp-mirror/platform_bionic
 [5]: https://github.com/yhfudev/cpp-ci-unit-test.git
-[6]: https://port70.net/~nsz/c/c89/c89-draft.html
+
 [7]: https://en.wikipedia.org/wiki/The_C_Programming_Language
 [8]: https://github.com/json-c/json-c
 [9]: https://www.fefe.de/dietlibc/
@@ -1473,7 +1470,7 @@ support for C.
 [244]: http://sophia.systems
 [245]: http://www.greenend.org.uk/rjk/tech/inline.html
 [246]: https://criterion.readthedocs.io/en/master
-[247]: https://port70.net/~nsz/c/c11/n1570.html
+
 [248]: https://en.wikibooks.org/wiki/C_Programming
 
 [251]: http://mingw.org/
@@ -1483,7 +1480,7 @@ support for C.
 [255]: http://flintlib.org/
 [256]: http://pari.math.u-bordeaux.fr/
 [257]: http://blog.noctua-software.com/c-tricks.html
-[258]: https://port70.net/~nsz/c/c99/n1256.html
+
 [259]: https://spdx.org/licenses/EPL-1.0.html
 [260]: https://netbeans.org/
 [261]: https://github.com/JonnyWhatshisface/libwebsock
