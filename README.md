@@ -125,8 +125,6 @@ Compilers, as well as compiler- and compilation-related tooling.
   license. [``LGPL-2.1-only``][LGPL-2.1-only]
 * [GCC][40] - Provides a C compiler as part of its compiler set. Supports
   C11. [``GPL-3.0-or-later``][GPL-3.0-or-later]
-* [PCC][74] - Venerable compiler. Supports C99. [Various licenses][75], all
-  open source.
 * [OrangeC][631] - OrangeC Compiler And Tool Chain. [Various licenses][632]
 
 ## Compression ##
@@ -235,11 +233,17 @@ protocols.
 * [OpenSSL][110] - Implementation of the SSL and TLS protocols.
   Also includes a cryptography library.
   [Dual Licensed under the OpenSSL License and the SSLeay License][111].
+* [LibreSSL][143] - Fork of OpenSSL 1.0.1g focused on modernizing the codebase,
+  improving security, and applying best programming practices.
+* [wolfSSL][74] - The wolfSSL library is a small, fast, portable implementation of TLS/SSL for
+  embedded devices to the cloud.
+* [BearSSL][75] - Implementation of the SSL/TLS protocol aimed at small footprint and suitability 
+  for embedded systems.
 * [liboqs][493] - Library for quantum-resistant cryptographicl algorithms. [``MIT``][MIT]
 * [libsodium][198] - Modern and easy-to-use crypto library. [``MIT``][MIT]
 * [libtomcrypt][299] - Fairly comprehensive, modular and portable cryptographic toolkit.
   Public domain.
-* [mbed TLS][291] - Another crypto implementation. [``Apache-2.0``][Apache-2.0]
+* [Mbed TLS][291] - Another crypto implementation. [``Apache-2.0``][Apache-2.0]
 * [MIRACL][480] - Multiprecision Integer and Rational Arithmetic Cryptographic Library;
   an SDK for elliptic curve cryptography.
   [``AGPL-3.0-or-later``][AGPL-3.0-or-later]
@@ -268,7 +272,6 @@ Databases and data stores with C APIs.
 * [MySQL][551] - The world's most popular open source database. [``GPL-2.0-only``][GPL-2.0-only]
 * [PostgreSQL][121] - Powerful object-relational database system. [``PostgreSQL``][PostgreSQL]
 * [Redis][51] - Advanced key-value store. [``BSD-3-Clause``][BSD-3-Clause]
-* [sophia][244] - Modern, embeddable key-value database. [``BSD-2-Clause``][BSD-2-Clause]
 * [sparkey][509] - Simple constant key/value storage library.
   Designed for read-heavy loads with infrequent, large bulk inserts.
   [``Apache-2.0``][Apache-2.0]
@@ -458,6 +461,8 @@ Engines, libraries and other helpful things specifically for making games.
   Compatible with both C and C++. [``CC0-1.0``][CC0-1.0]
 * [Equilibrium Engine][217] - Data-oriented and multi-threaded C11 Game Engine with
   libraries & shaders hot-reloading. [``GPL-2.0-or-later``][GPL-2.0-or-later]
+* [RGFW][244] - Lightweight multi-platform single-header library for creating windows,
+  supports many graphics contexts and software rendering. [``Zlib``][Zlib]
 
 ## Graphics ##
 
@@ -554,7 +559,7 @@ to C programming.
 * [C FAQ - comp.lang.c Frequently Asked Questions][262]
 * [Comparison of C/POSIX standard library implementations for Linux][362]
 * [Pre-defined Compiler Macros wiki][152]
-* [Modern C features][]
+* [Modern C features][185]
 * [Finding the best 64-bit simulation PRNG][529]
 * [SEI CERT C Coding Standard][266]
 * [tinyc.game][559] - Tiny C games you can compile and run RIGHT NOW
@@ -1329,8 +1334,8 @@ support for C.
 [71]: https://sourceforge.net/projects/kissfft/
 [72]: https://bitbucket.org/MDukhan/yeppp
 [73]: https://graphics.stanford.edu/~seander/bithacks.html
-[74]: http://pcc.ludd.ltu.se/
-[75]: http://pcc.ludd.ltu.se/licenses/
+[74]: https://www.wolfssl.com/
+[75]: https://bearssl.org/
 [76]: http://attractivechaos.github.io/klib/#About
 [77]: https://github.com/netmail-open/wjelement/
 [78]: http://apr.apache.org/
@@ -1499,7 +1504,7 @@ support for C.
 [241]: https://github.com/gpakosz/PackedArray
 [242]: http://concurrencykit.org
 [243]: http://repo.hu/projects/cchan/
-[244]: http://sophia.systems
+[244]: https://github.com/ColleagueRiley/RGFW
 [245]: http://www.greenend.org.uk/rjk/tech/inline.html
 [246]: https://criterion.readthedocs.io/en/master
 [247]: https://github.com/skeeto/w64devkit
