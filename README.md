@@ -750,6 +750,7 @@ comprehensive and high-level, you may want the Web Frameworks section.
 * [Wslay][460] - WebSocket library. Implements version 13 of the WebSocket protocol,
   as described in RFC 6455. [``MIT``][MIT]
 * [zyre][419] - Framework for proximity-based peer-to-peer applications. [``MPL-2.0``][MPL-2.0]
+* [acl][268] - C/C++ server and network library
 
 ## Numerical ##
 
@@ -1389,7 +1390,7 @@ support for C.
 [137]: http://math-atlas.sourceforge.net/
 [138]: http://lionet.info/asn1c/compiler.html
 [139]: https://github.com/nanomsg/nanomsg
-[140]: http://avro.apache.org/docs/current/api/c/index.html#_introduction_to_avro_c
+[140]: https://avro.apache.org/
 [141]: https://cmocka.org/
 [142]: https://gnupg.org/related_software/libgcrypt
 [143]: https://github.com/libressl-portable/
@@ -1517,7 +1518,7 @@ support for C.
 [265]: https://computing.llnl.gov/tutorials/mpi/
 [266]: https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard
 [267]: http://blog.pkh.me/p/20-templating-in-c.html
-[268]: http://lipforge.ens-lyon.fr/www/crlibm/index.html
+[268]: https://github.com/acl-dev/acl
 [269]: https://logological.org/gpp
 [270]: https://github.com/docopt/docopt.c
 [271]: https://xmake.io/
@@ -1536,7 +1537,7 @@ support for C.
 [284]: https://github.com/open-mpi/ompi
 [285]: http://www.mpich.org/
 [286]: http://git.mpich.org/mpich.git/blob_plain/6aab201f58d71fc97f2c044d250389ba86ac1e3c:/COPYRIGHT
-[287]: http://mingw-w64.yaxm.org/doku.php/start
+[287]: https://www.mingw-w64.org/
 [288]: https://github.com/google/sanitizers
 [289]: https://github.com/include-what-you-use/include-what-you-use
 [290]: http://dotat.at/prog/unifdef/
