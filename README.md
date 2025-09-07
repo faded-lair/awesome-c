@@ -60,7 +60,6 @@ CONTRIBUTING.md first.
 	* [XML](#xml)
 	* [YAML](#yaml)
 * [Testing](#testing)
-* [Text Editor Extensions](#text-editor-extensions)
 * [Tools](#tools)
 * [Utilities](#utilities)
 * [Web Frameworks](#web-frameworks)
@@ -1006,23 +1005,6 @@ device types (such as logic analyzers, oscilloscopes, multimeters, and more). [`
 * [Unity][296] - Simple unit testing framework. [``MIT``][MIT]
 * [utest][386] - Single-header unit testing library. [``Unlicense``][Unlicense]
 
-## Text Editor Extensions ##
-
-While practically any decent programmer's text editor supports C, there are some
-extensions that make it more pleasant. These are labelled by editor.
-
-* [CCompletion][92] - Notepad++ autocompletion plugin. Works with all
-  identifiers recognized by Ctags. This is a download link. [``GPL-2.0-or-later``][GPL-2.0-or-later]
-* [CEDET][250] - Collection of Emacs Development Environment Tools; designed to
-  provide IDE-like features to Emacs. Built-in. [``GPL-3.0-or-later``][GPL-3.0-or-later]
-* [Flycheck][149] - Modern syntax checking for Emacs. For C, it can use either
-  GCC or Clang as a back-end. [``GPL-3.0-or-later``][GPL-3.0-or-later]
-* [Neomake][441] - Async :make and linting framework for Neovim/Vim. [``MIT``][MIT]
-* [Syntastic][186] - Syntax checking and linting for Vim. [``WTFPL``][WTFPL]
-* [YASnippet][150] - Emacs code template system, with C templates for common snippets.
-  [``GPL-3.0-or-later``][GPL-3.0-or-later]
-* [YouCompleteMe][151] - Code completion engine for Vim. [``GPL-3.0-only``][GPL-3.0-only]
-
 ## Tools ##
 
 Useful programs to help you write and debug C code which are *not* editors,
@@ -1342,7 +1324,7 @@ support for C.
 [89]: http://expat.sourceforge.net/
 [90]: https://www.sfml-dev.org/download/csfml/
 [91]: https://www.sfml-dev.org/index.php
-[92]: http://freeweb.siol.net/rmihor/NppCCompletionPlugin.zip
+
 [93]: https://github.com/keybuk/libnih
 [94]: http://cunit.sourceforge.net/
 [95]: https://rr-project.org/
@@ -1399,9 +1381,7 @@ support for C.
 [146]: https://en.wikipedia.org/wiki/POSIX_Threads
 [147]: https://www.opengl.org/
 [148]: http://www.sgi.com/tech/opengl/?/license.html
-[149]: https://github.com/flycheck/flycheck
-[150]: http://joaotavora.github.io/yasnippet/
-[151]: https://github.com/ycm-core/YouCompleteMe
+
 [152]: https://sites.google.com/site/lccretargetablecompiler/
 [153]: https://github.com/drh/lcc/blob/master/CPYRIGHT
 [154]: https://github.com/swenson/vector.h
@@ -1436,7 +1416,7 @@ support for C.
 [183]: http://shop.oreilly.com/product/0636920026136.do
 [184]: https://www.pearson.com/us/higher-education/program/Prata-C-Primer-Plus-6th-Edition/PGM4399.html
 [185]: http://www.planetpdf.com/codecuts/pdfs/ooc.pdf
-[186]: https://github.com/vim-syntastic/syntastic
+
 [187]: https://github.com/dvidelabs/flatcc
 [188]: http://apophenia.info
 [189]: https://github.com/b-k/apophenia/blob/master/install/COPYING
@@ -1500,7 +1480,6 @@ support for C.
 [247]: https://port70.net/~nsz/c/c11/n1570.html
 [248]: https://en.wikibooks.org/wiki/C_Programming
 
-[250]: http://cedet.sourceforge.net/
 [251]: http://mingw.org/
 [252]: http://mingw.org/license
 [253]: https://cygwin.com/
@@ -1690,7 +1669,7 @@ support for C.
 [438]: http://www.pell.portland.or.us/~orc/Code/discount/
 [439]: https://github.com/clMathLibraries/clBLAS
 [440]: https://criu.org/Main_Page
-[441]: https://github.com/neomake/neomake
+
 [442]: http://libdill.org/
 [443]: https://nullprogram.com/blog/2015/02/17
 [444]: https://github.com/ands/lightmapper
