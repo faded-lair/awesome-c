@@ -1179,6 +1179,8 @@ A 'catch-all' category for anything that doesn't fit well anywhere else.
 * [EasyLogger][591] - An ultra-lightweight, high-performance C/C++ log library. [``MIT``][MIT]
 * [MetaCall][607] - A library for providing inter-language foreign function interface calls.
   [``Apache-2.0``][Apache-2.0]
+* [subprocess.h][323] - 🐜 single header process launching solution for C and C++
+  [``Unlicense``][Unlicense]
 
 ## Web Frameworks ##
 
@@ -1570,7 +1572,7 @@ support for C.
 [320]: https://www.gnu.org/software/ddd/ddd.html
 [321]: http://docutils.sourceforge.net/
 [322]: https://hplgit.github.io/doconce/doc/web/index.html
-[323]: http://fabutil.org/
+[323]: https://github.com/sheredom/subprocess.h
 [324]: https://www.gnu.org/software/make/
 [325]: https://github.com/libfann/fann
 [326]: https://github.com/centaurean/spookyhash
