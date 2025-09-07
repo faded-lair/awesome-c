@@ -127,6 +127,7 @@ Compilers, as well as compiler- and compilation-related tooling.
   C11. [``GPL-3.0-or-later``][GPL-3.0-or-later]
 * [PCC][74] - Venerable compiler. Supports C99. [Various licenses][75], all
   open source.
+* [OrangeC][632] - OrangeC Compiler And Tool Chain. [Various licenses][633]
 
 ## Compression ##
 
@@ -1149,6 +1150,7 @@ A 'catch-all' category for anything that doesn't fit well anywhere else.
 * [OOC][629] - Object Oriented C (oo tools for C) kit is for those who want to program in an
   object oriented manner, but stick on the good old C as well. [``LGPL-3.0-or-later``][LGPL-3.0-or-later]
 * [PLOOC][630] - Protected Low-overhead Object Oriented Programming with ANSI-C. [``Apache-2.0``][Apache-2.0]
+* [COS][631] - C Object System: a framework that brings C to the level of other high level programming languages and beyond. [``Apache-2.0``][Apache-2.0]
 * [parg][274] - A single-file reimplementation of ``getopt`` with better defaults.
   [``CC0-1.0``][CC0-1.0]
 * [pbc][236] - Protocol buffers library. [``MIT``][MIT]
@@ -1872,6 +1874,9 @@ support for C.
 [628]: https://github.com/stclib/STC
 [629]: https://ooc-coding.sourceforge.net/
 [630]: https://github.com/GorgonMeducer/PLOOC
+[631]: https://github.com/CObjectSystem/COS
+[632]: https://github.com/LADSoft/OrangeC
+[633]: https://github.com/LADSoft/OrangeC/blob/master/LICENSE.TXT
 
 [700]: https://viewsourcecode.org/snaptoken/kilo/
 [701]: https://wiki.gnome.org/Projects/GLib
