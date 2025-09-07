@@ -554,6 +554,7 @@ to C programming.
 * [C FAQ - comp.lang.c Frequently Asked Questions][262]
 * [Comparison of C/POSIX standard library implementations for Linux][362]
 * [Pre-defined Compiler Macros wiki][152]
+* [Modern C features][]
 * [Finding the best 64-bit simulation PRNG][529]
 * [SEI CERT C Coding Standard][266]
 * [tinyc.game][559] - Tiny C games you can compile and run RIGHT NOW
@@ -1439,7 +1440,7 @@ support for C.
 [182]: http://shop.oreilly.com/product/9780596004361.do
 [183]: http://shop.oreilly.com/product/0636920026136.do
 [184]: https://www.pearson.com/us/higher-education/program/Prata-C-Primer-Plus-6th-Edition/PGM4399.html
-[185]: http://www.planetpdf.com/codecuts/pdfs/ooc.pdf
+[185]: https://github.com/AnthonyCalandra/modern-c-features
 [186]: https://wiki.gnome.org/Projects/GLib
 [187]: https://github.com/dvidelabs/flatcc
 [188]: http://apophenia.info
