@@ -867,6 +867,10 @@ the Frameworks section.
   toward game development. [``Zlib``][Zlib]
 * [zpl][602] - C99 cross-platform header-only library with many goodies. [``BSD-3-Clause``, ``Unlicense``][BSD-3-Clause, Unlicense]
 * [libs][20] - Single-file public domain libraries for C/C++. [``MIT``, ``Unlicense``][MIT, Unlicense]
+* [cute_headers][294] - Collection of cross-platform one-file C/C++ libraries with no dependencies,
+  primarily used for games. [``Zlib``, ``Unlicense``][Zlib, Unlicense]
+* [pico_headers][545] - Single-header, cross-platform libraries for game development. [``Zlib``, ``Unlicense``][Zlib, Unlicense]
+* [gunslinger][552] - C99, header-only framework for games and multimedia applications. [``BSD-3-Clause``][BSD-3-Clause]
 
 ## Standard Libraries ##
 
@@ -1522,7 +1526,7 @@ support for C.
 [291]: https://tls.mbed.org/
 [292]: http://www.fefe.de/djb/
 [293]: http://jemalloc.net
-
+[294]: https://github.com/RandyGaul/cute_headers
 [295]: https://github.com/gperftools/gperftools
 [296]: http://www.throwtheswitch.org/unity
 [297]: http://www.throwtheswitch.org/cmock
@@ -1772,14 +1776,14 @@ support for C.
 [542]: https://github.com/recp/cglm
 [543]: https://github.com/recp/tm
 [544]: https://igraph.org/
-
+[545]: https://github.com/empyreanx/pico_headers
 [546]: https://scientificc.github.io/cmathl/
 [547]: https://github.com/benhoyt/inih
 [548]: https://github.com/libarchive/libarchive
 [549]: https://github.com/LiamBindle/MQTT-C
 [550]: https://github.com/LeoVen/C-Macro-Collections
 [551]: https://github.com/mysql/mysql-server
-
+[552]: https://github.com/MrFrenik/gunslinger
 [553]: https://github.com/okuvshynov/b63
 [554]: https://github.com/rxi/dyad
 [555]: https://github.com/eerimoq/pbtools
