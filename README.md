@@ -861,6 +861,7 @@ the Frameworks section.
 * [tinyheaders][108] - Collection of header-only libraries, primarily oriented
   toward game development. [``Zlib``][Zlib]
 * [zpl][602] - C99 cross-platform header-only library with many goodies. [``BSD-3-Clause``, ``Unlicense``][BSD-3-Clause, Unlicense]
+* [libs][20] - Single-file public domain libraries for C/C++. [``MIT``, ``Unlicense``][MIT, Unlicense]
 
 ## Standard Libraries ##
 
@@ -1242,7 +1243,7 @@ support for C.
 [17]: https://github.com/saitoha/libsixel
 [18]: https://www.enlightenment.org?p=about%252Flibs
 [19]: http://www.tcl.tk/
-
+[20]: https://github.com/mattiasgustavsson/libs
 [21]: http://xforms-toolkit.org/
 [22]: https://www.sqlite.org/
 [23]: https://unqlite.org/
