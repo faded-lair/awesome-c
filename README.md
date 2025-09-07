@@ -395,6 +395,11 @@ Big libraries that provide data structures and other stuff you expect of a
   capabilities. [``Apache-2.0``][Apache-2.0]
 * [pspsdk][620] - An open-source SDK for PSP homebrew development. [Various licences][621].
 * [gear-lib][626] - Gear-Lib, C library for IOT Embedded Multimedia and Network. [``MIT``][MIT]
+* [Melon][166] - Melon is a generic cross-platform C library.
+  It contains many algorithms, data structures, functional components,
+  scripting languages and practical frameworks,
+  which can facilitate developers to quickly develop applications and avoid the dilemma of
+  repeated wheel building. [``BSD-3-Clause``][BSD-3-Clause]
 
 ## Game Programming ##
 
@@ -705,8 +710,6 @@ comprehensive and high-level, you may want the Web Frameworks section.
   [``BSD-3-Clause``][BSD-3-Clause]
 * [libev][144] - Yet another event loop. [``BSD-2-Clause``][BSD-2-Clause]
 * [libevent][124] - Event loop replacement for network servers. [``BSD-3-Clause``][BSD-3-Clause]
-* [libhttpd][166] - Library to add basic web server capabilities to an
-  application or embedded device. [``GPL-2.0-only``][GPL-2.0-only]
 * [libhv][564] - Cross platform event loop library. [``BSD-3-Clause``][BSD-3-Clause]
 * [libidn][164] - Implementation of the Stringprep, Punycode and IDNA specifications.
   [``GPL-3.0-or-later``][GPL-3.0-or-later]
@@ -1416,7 +1419,7 @@ support for C.
 [163]: https://gnu.org/software/libiconv/
 [164]: https://gnu.org/software/libidn/
 [165]: https://gnu.org/software/libmicrohttpd/
-[166]: https://www.hughes.com.au/products/libhttpd/
+[166]: https://github.com/Water-Melon/Melon
 [167]: https://github.com/gpakosz/whereami
 [168]: http://www.webdav.org/neon/
 [169]: http://mihl.sourceforge.net/
