@@ -454,6 +454,7 @@ Engines, libraries and other helpful things specifically for making games.
   alternative to other libraries for doing all those things. Various licenses,
   all open source.
 * [uastar][535] - Minimal A\* implementation. [``ZLib``][Zlib]
+* [sokol_gp][626] - Minimal modern efficient cross platform 2D graphics painter in C. [``MIT-0``][MIT-0]
 
 ## Graphics ##
 
@@ -863,6 +864,7 @@ the Frameworks section.
 * [Snippets][220] - Useful code snippets and header-only libraries.
   Public domain.
 * [stb][114] - Range of single-file libraries. Public domain.
+* [sokol][625] - minimal cross-platform standalone C headers. [``Zlib``][Zlib]
 * [tinyheaders][108] - Collection of header-only libraries, primarily oriented
   toward game development. [``Zlib``][Zlib]
 * [zpl][602] - C99 cross-platform header-only library with many goodies. [``BSD-3-Clause``, ``Unlicense``][BSD-3-Clause, Unlicense]
@@ -1223,6 +1225,7 @@ support for C.
 [LGPL-3.0-or-later]: https://spdx.org/licenses/LGPL-3.0-or-later.html
 [Libpng]: https://spdx.org/licenses/Libpng.html
 [MIT]: https://spdx.org/licenses/MIT.html
+[MIT-0]: https://spdx.org/licenses/MIT-0.html
 [MPL-2.0]: https://spdx.org/licenses/MPL-2.0.html
 [NCSA]: https://spdx.org/licenses/NCSA.html
 [OLDAP-2.8]: https://spdx.org/licenses/OLDAP-2.8.html
@@ -1856,6 +1859,8 @@ support for C.
 [622]: https://remove-to-waste.info
 [623]: https://github.com/ashvardanian/StringZilla
 [624]: https://sigrok.org/wiki/Libsigrok
+[625]: https://github.com/floooh/sokol
+[626]: https://github.com/edubart/sokol_gp
 
 [700]: https://viewsourcecode.org/snaptoken/kilo/
 [701]: https://wiki.gnome.org/Projects/GLib
