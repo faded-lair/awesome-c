@@ -499,7 +499,7 @@ Widget toolkits, or things meant to be used in a similar way to them.
 
 * [GTK+][14] - Cross-platform widget toolkit. [``LGPL-2.1-only``][LGPL-2.1-only]
 * [IUP][16] - Another cross-platform widget toolkit. [``MIT``][MIT]
-* [microui][616] - Tiny immediate-mode UI library written in portable ANSI C. [```MIT```][MIT]
+* [microui][616] - Tiny immediate-mode UI library written in portable ANSI C. [``MIT``][MIT]
 * [nappgui][705] - Professional SDK to build cross-platform desktop applications using C. [``MIT``][MIT]
 * [nuklear][408] - Small, C89, single-header widget toolkit. Public domain.
 * [tinyfiledialogs][426] - Single-file library for simple dialogs. Compatible
@@ -512,8 +512,8 @@ Widget toolkits, or things meant to be used in a similar way to them.
 * [luigi][614] - A barebones single-header GUI library for Win32, X11 and Essence. [``MIT``][MIT]
 * [dwindows][211] - A GTK-like window toolkit for creating modern crossplatform applications.
   (OS/2, Windows, Unix, Mac, iOS, Android) [``BSD-3-Clause``][BSD-3-Clause]
-* [libui-ng][272] - Simple and portable (but not inflexible) GUI library in C that uses the native
-  GUI technologies of each platform it supports. [``MIT``][MIT]
+* [libui-ng][272] - Simple and portable (but not inflexible) GUI library in C that uses the
+  native GUI technologies of each platform it supports. [``MIT``][MIT]
 
 ## Hashing ##
 
