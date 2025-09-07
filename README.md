@@ -1820,7 +1820,7 @@ support for C.
 [597]: https://github.com/jart/cosmopolitan
 [598]: https://github.com/cjwagenius/bfish
 [599]: https://github.com/hnes/libaco
-[600]: www.littlecms.com
+[600]: https://www.littlecms.com/
 [601]: https://github.com/smoked-herring/sail
 [602]: https://github.com/zpl-c/zpl
 [603]: https://github.com/Hirrolot/metalang99
@@ -1845,6 +1845,7 @@ support for C.
 [622]: https://remove-to-waste.info
 [623]: https://github.com/ashvardanian/StringZilla
 [624]: https://sigrok.org/wiki/Libsigrok
+
 [700]: https://viewsourcecode.org/snaptoken/kilo/
 [701]: https://wiki.gnome.org/Projects/GLib
 [702]: https://duckdb.org/
