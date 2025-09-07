@@ -512,6 +512,8 @@ Widget toolkits, or things meant to be used in a similar way to them.
 * [luigi][614] - A barebones single-header GUI library for Win32, X11 and Essence. [``MIT``][MIT]
 * [dwindows][211] - A GTK-like window toolkit for creating modern crossplatform applications.
   (OS/2, Windows, Unix, Mac, iOS, Android) [``BSD-3-Clause``][BSD-3-Clause]
+* [libui-ng][272] - Simple and portable (but not inflexible) GUI library in C that uses the native
+  GUI technologies of each platform it supports. [``MIT``][MIT]
 
 ## Hashing ##
 
@@ -1498,7 +1500,7 @@ support for C.
 [269]: https://logological.org/gpp
 [270]: https://github.com/docopt/docopt.c
 [271]: https://xmake.io/
-
+[272]: https://github.com/libui-ng/libui-ng
 [273]: http://troydhanson.github.io/uthash/
 [274]: https://github.com/jibsen/parg
 [275]: http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html
