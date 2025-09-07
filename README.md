@@ -1146,6 +1146,9 @@ A 'catch-all' category for anything that doesn't fit well anywhere else.
 * [nope.c][209] - Ultra-light software platform for scalable server-side and
   networking applications (think node.js for C programmers). [``GPL-2.0-only``][GPL-2.0-only]
 * [obj.h][580] - A single-header supports OOP in pure C. [``MIT``][MIT]
+* [OOC][629] - Object Oriented C (oo tools for C) kit is for those who want to program in an
+  object oriented manner, but stick on the good old C as well. [``LGPL-3.0-or-later``][LGPL-3.0-or-later]
+* [PLOOC][630] - Protected Low-overhead Object Oriented Programming with ANSI-C. [``Apache-2.0``][Apache-2.0]
 * [parg][274] - A single-file reimplementation of ``getopt`` with better defaults.
   [``CC0-1.0``][CC0-1.0]
 * [pbc][236] - Protocol buffers library. [``MIT``][MIT]
@@ -1153,7 +1156,8 @@ A 'catch-all' category for anything that doesn't fit well anywhere else.
   [``BSD-3-Clause``][BSD-3-Clause]
 * [rabbitmq-c][228] - Client library for [RabbitMQ][229]. [``MIT``][MIT]
 * [Ragel][54] - DSL for state machines that compiles to C. [``GPL-2.0-only``][GPL-2.0-only]
-* [rmw][622] - safe-remove utility for the command line that can purge items from your waste directories after x number of days. [``GPL-3.0-or-later``][GPL-3.0-or-later]
+* [rmw][622] - safe-remove utility for the command line that can purge items
+  from your waste directories after x number of days. [``GPL-3.0-or-later``][GPL-3.0-or-later]
 * [Rogueutil][565] - Cross-platform library for creating text-based user
   interfaces (TUI) [``Apache-2.0``][Apache-2.0]
 * [sort][190] - Collection of sorting routines, which type-specialize at
@@ -1866,6 +1870,8 @@ support for C.
 [626]: https://github.com/edubart/sokol_gp
 [627]: https://github.com/gozfree/gear-lib
 [628]: https://github.com/stclib/STC
+[629]: https://ooc-coding.sourceforge.net/
+[630]: https://github.com/GorgonMeducer/PLOOC
 
 [700]: https://viewsourcecode.org/snaptoken/kilo/
 [701]: https://wiki.gnome.org/Projects/GLib
