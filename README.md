@@ -957,7 +957,7 @@ This includes libraries for things like XML, JSON, CSV, and other similar format
 
 ## Signal Processing ##
 
-* [libsigrok][601] -  signal analysis software suite that supports various
+* [libsigrok][624] -  signal analysis software suite that supports various
 device types (such as logic analyzers, oscilloscopes, multimeters, and more). [``GPL``][GPL]
 
 ## Testing ##
@@ -1432,6 +1432,7 @@ support for C.
 [208]: http://nethack4.org/blog/building-c.html
 [209]: https://github.com/riolet/WAFer
 [210]: https://docs.google.com/presentation/d/1h49gY3TSiayLMXYmRMaAEMl05FaJ-Z6jDOWOz3EsqqQ/edit?pli=1#slide=id.gaf50702c_0153
+
 [212]: http://www.crasseux.com/books/ctut.pdf
 [213]: https://pdos.csail.mit.edu/6.828/2017/readings/pointers.pdf
 [214]: https://github.com/adamierymenko/huffandpuff
@@ -1492,6 +1493,7 @@ support for C.
 [269]: https://logological.org/gpp
 [270]: https://github.com/docopt/docopt.c
 [271]: https://xmake.io/
+
 [273]: http://troydhanson.github.io/uthash/
 [274]: https://github.com/jibsen/parg
 [275]: http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html
@@ -1513,6 +1515,7 @@ support for C.
 [291]: https://tls.mbed.org/
 [292]: http://www.fefe.de/djb/
 [293]: http://jemalloc.net
+
 [295]: https://github.com/gperftools/gperftools
 [296]: http://www.throwtheswitch.org/unity
 [297]: http://www.throwtheswitch.org/cmock
@@ -1762,12 +1765,14 @@ support for C.
 [542]: https://github.com/recp/cglm
 [543]: https://github.com/recp/tm
 [544]: https://igraph.org/
+
 [546]: https://scientificc.github.io/cmathl/
 [547]: https://github.com/benhoyt/inih
 [548]: https://github.com/libarchive/libarchive
 [549]: https://github.com/LiamBindle/MQTT-C
 [550]: https://github.com/LeoVen/C-Macro-Collections
 [551]: https://github.com/mysql/mysql-server
+
 [553]: https://github.com/okuvshynov/b63
 [554]: https://github.com/rxi/dyad
 [555]: https://github.com/eerimoq/pbtools
@@ -1817,7 +1822,6 @@ support for C.
 [599]: https://github.com/hnes/libaco
 [600]: www.littlecms.com
 [601]: https://github.com/smoked-herring/sail
-[601]: https://sigrok.org/wiki/Libsigrok
 [602]: https://github.com/zpl-c/zpl
 [603]: https://github.com/Hirrolot/metalang99
 [604]: https://github.com/Hirrolot/datatype99
@@ -1840,6 +1844,7 @@ support for C.
 [621]: https://github.com/pspdev/pspsdk/blob/master/LICENSE
 [622]: https://remove-to-waste.info
 [623]: https://github.com/ashvardanian/StringZilla
+[624]: https://sigrok.org/wiki/Libsigrok
 [700]: https://viewsourcecode.org/snaptoken/kilo/
 [701]: https://wiki.gnome.org/Projects/GLib
 [702]: https://duckdb.org/
