@@ -553,6 +553,7 @@ to C programming.
 * [Benchmarks of the Lockless Memory Allocator][450]
 * [C FAQ - comp.lang.c Frequently Asked Questions][262]
 * [Comparison of C/POSIX standard library implementations for Linux][362]
+* [Pre-defined Compiler Macros wiki][152]
 * [Finding the best 64-bit simulation PRNG][529]
 * [SEI CERT C Coding Standard][266]
 * [tinyc.game][559] - Tiny C games you can compile and run RIGHT NOW
@@ -1405,7 +1406,7 @@ support for C.
 [149]: https://duckdb.org/
 [150]: https://github.com/armink/FlashDB
 [151]: https://github.com/taosdata/TDengine
-[152]: https://sites.google.com/site/lccretargetablecompiler/
+[152]: https://github.com/cpredef/predef
 [153]: https://github.com/drh/lcc/blob/master/CPYRIGHT
 [154]: https://github.com/swenson/vector.h
 [155]: https://www.gnu.org/software/adns/
