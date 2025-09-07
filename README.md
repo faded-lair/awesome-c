@@ -50,7 +50,6 @@ CONTRIBUTING.md first.
 * [Serialization](#serialization)
 * [Source Code Collections](#source-code-collections)
 * [Standard Libraries](#standard-libraries)
-  * [Template Libraries](#template-libraries)
 * [String Manipulation](#string-manipulation)
 * [Structured File Processing](#structured-file-processing)
 	* [CSV](#csv)
@@ -293,6 +292,7 @@ Databases and data stores with C APIs.
   [``BSD-2-Clause``][BSD-2-Clause]
 * [Collections-C][406] - Library of generic data structures.
   [``LGPL-3.0-or-later``][LGPL-3.0-or-later]
+* [CTL][613] - C CONTAINER TEMPLATE LIBRARY (CTL) [``MIT``][MIT]
 * [ds][541] - Common Data Structures and Algorithms. [``MIT``][MIT]
 * [igraph][544] - A graph processing library.
   [``GPL-2.0-or-later``][GPL-2.0-or-later]
@@ -891,10 +891,6 @@ Implementations of the (standard-mandated) C standard library.
   C11. [``CC0-1.0``][CC0-1.0]
 * [uClibc-ng][12] - Small C library for developing embedded systems.
   [``LGPL-2.1-or-later``][LGPL-2.1-or-later]
-
-### Template libraries
-
-* [CTL][613] - C CONTAINER TEMPLATE LIBRARY (CTL) [``MIT``][MIT]
 
 ## String Manipulation ##
 
