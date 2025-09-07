@@ -26,7 +26,6 @@ CONTRIBUTING.md first.
 * [Data Structures](#data-structures)
 * [Debugging](#debugging)
 * [Documentation Generation](#documentation-generation)
-* [Editors](#editors)
 * [Frameworks](#frameworks)
 * [Game Programming](#game-programming)
 * [Graphics](#graphics)
@@ -363,19 +362,6 @@ work.
   generate a range of formats. [``BSD-3-Clause``][BSD-3-Clause]
 * [Doxygen][318] - De-facto standard tool for generating documentation from
   annotated sources. Can generate a large range of formats. [``GPL-2.0-only``][GPL-2.0-only]
-
-## Editors ##
-
-Fancier, IDE-type editors. If you want a programmer's text editor, look
-elsewhere. Besides, whatever you use most likely supports C anyway.
-
-* [Anjuta DevStudio][42] - GNOME IDE. [``GPL-2.0-only``][GPL-2.0-only]
-* [Code::Blocks][249] - Extendable, configurable IDE supporting
-  C. [``GPL-3.0-only``][GPL-3.0-only]
-* [CodeLite][45] - Cross-platform IDE. [``GPL-2.0-only``][GPL-2.0-only]
-* [Geany][43] - Small and fast IDE. [``GPL-2.0-or-later``][GPL-2.0-or-later]
-* [KDevelop][44] - KDE IDE. [``GPL-2.0-only``][GPL-2.0-only]
-* [zinjaI][578] - Simple, lightweight and feature-rich IDE. [``GPL-3.0-only``][GPL-3.0-only]
 
 ## Frameworks ##
 
@@ -1309,10 +1295,7 @@ support for C.
 [39]: https://github.com/recp/json
 [40]: https://gcc.gnu.org/
 [41]: https://github.com/libgit2/libgit2/blob/master/COPYING
-[42]: http://anjuta.org/
-[43]: https://www.geany.org/
-[44]: https://www.kdevelop.org/
-[45]: https://www.codelite.org/
+
 [46]: https://www.gnu.org/software/gnulib/
 [47]: https://www.gnu.org/software/gsl/
 [48]: https://liballeg.org
@@ -1516,7 +1499,7 @@ support for C.
 [246]: https://criterion.readthedocs.io/en/master
 [247]: https://port70.net/~nsz/c/c11/n1570.html
 [248]: https://en.wikibooks.org/wiki/C_Programming
-[249]: http://www.codeblocks.org/
+
 [250]: http://cedet.sourceforge.net/
 [251]: http://mingw.org/
 [252]: http://mingw.org/license
@@ -1844,7 +1827,7 @@ support for C.
 [575]: https://lvgl.io/
 [576]: https://github.com/ianh/owl
 [577]: https://github.com/zhaojh329/libuhttpd
-[578]: http://zinjai.sourceforge.net/
+
 [579]: https://github.com/silgy/silgy
 [580]: https://github.com/small-c/obj.h
 [581]: https://github.com/zeromq/libzmq
