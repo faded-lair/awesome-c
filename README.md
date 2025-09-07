@@ -259,7 +259,7 @@ Databases and data stores with C APIs.
 
 * [BerkeleyDB][380] - Library for a high-performance embedded database for key-value data.
   [``AGPL-3.0-only``][AGPL-3.0-only]
-* [DuckDB][639] - Fast in-process analytical database, with C API. [``MIT``][MIT] 
+* [DuckDB][149] - Fast in-process analytical database, with C API. [``MIT``][MIT] 
 * [EJDB2][568] - Embeddable JSON Database engine. [``MIT``][MIT]
 * [Groonga][524] - Columnar store with full-text search. [``LGPL-2.1-only``][LGPL-2.1-only]
 * [Hiredis][201] - Minimalistic client library for Redis. [``BSD-3-Clause``][BSD-3-Clause]
@@ -279,9 +279,9 @@ Databases and data stores with C APIs.
   [``BSD-2-Clause``][BSD-2-Clause]
 * [WhiteDB][512] - Lightweight database library, operating entirely in main memory.
   [``GPL-3.0-or-later``][GPL-3.0-or-later]
-* [FlashDB][640] - An ultra-lightweight database that supports key-value and time series data.
+* [FlashDB][150] - An ultra-lightweight database that supports key-value and time series data.
   [``Apache-2.0``][Apache-2.0]
-* [TDengine][641] - High-performance, cloud native time-series database.
+* [TDengine][151] - High-performance, cloud native time-series database.
   [``AGPL-3.0-only``][AGPL-3.0-only]
 
 ## Data Structures ##
@@ -375,7 +375,7 @@ Big libraries that provide data structures and other stuff you expect of a
   [``GPL-2.0-only``][GPL-2.0-only]
 * [EFL][119] - Large collection of useful data structures and
   functions. Various licenses, all open source.
-* [GLib][638] - Library of utility functions and structures, designed to be
+* [GLib][186] - Library of utility functions and structures, designed to be
   portable, efficient and powerful. [``LGPL-2.1-only``][LGPL-2.1-only]
 * [klib][76] - Small and lightweight implementations of common algorithms and
   data structures. [``MIT``][MIT]
@@ -443,6 +443,10 @@ Engines, libraries and other helpful things specifically for making games.
 * [uastar][535] - Minimal A\* implementation. [``ZLib``][Zlib]
 * [sokol_gp][626] - Minimal modern efficient cross platform 2D graphics painter in C.
   [``MIT-0``][MIT-0]
+* [SOIL2][92] - SOIL2 is a tiny C library used primarily for uploading textures into OpenGL.
+  [``MIT-0``][MIT-0]
+* [TIGR][424] - TIGR - the TIny GRaphics library for Windows, macOS, Linux, iOS and Android.
+  [``Unlicense``][Unlicense]
 
 ## Graphics ##
 
@@ -466,22 +470,22 @@ Graphical User Interface section has what you need.
 * [libpng][382] - Official PNG reference library. [``Libpng``][Libpng]
 * [libRSVG][417] - Library to render SVG files using Cairo.
   [``LGPL-2.1-or-later``][LGPL-2.1-or-later]
-* [libsixel][17] - Library implementing the SIXEL protocol, allowing beautiful
-  graphics in your terminal. [``MIT``][MIT]
+* [libsixel][17] - Library implementing the SIXEL protocol,
+  allowing beautiful graphics in your terminal. [``MIT``][MIT]
 * [libspng][68] - A simpler interface for reading and writing PNG files.
   [``BSD-2-Clause``][BSD-2-Clause]
 * [libvips][511] - Image processing library. [``LGPL-2.1-or-later``][LGPL-2.1-or-later]
-* [libxmi][174] - Function library for rasterizing 2D vector
-  graphics. [``GPL-3.0-or-later``][GPL-3.0-or-later]
-* [lightmapper][444] - Single-file library for lightmap baking, using an
-  existing OpenGL renderer. Public domain.
+* [libxmi][174] - Function library for rasterizing 2D vector graphics.
+  [``GPL-3.0-or-later``][GPL-3.0-or-later]
+* [lightmapper][444] - Single-file library for lightmap baking, using an existing OpenGL renderer.
+  Public domain.
 * [little CMS][600] - A Color Management System. It provides fast transforms between ICC profiles.
   [``MIT``][MIT]
 * [mozjpeg][200] - Improved JPEG encoder. [``BSD-3-Clause``][BSD-3-Clause]
 * [nanovg][505] - Anti-aliased 2D vector drawing library on top of OpenGL, for
   UI and visualizations. [``Zlib``][Zlib]
-* [OpenGL][147] - Industry standard for high-performance graphics, with a
-  native C binding. [Various licenses][148].
+* [OpenGL][147] - Industry standard for high-performance graphics, with a native C binding.
+  [Various licenses][148].
 * [PlutoVG][590] - A standalone 2D vector graphics library in C [``MIT``][MIT]
 * [SAIL][601] - ⛵ The missing small and fast image decoding library for humans (not for machines)
   [``MIT``][MIT]
@@ -493,7 +497,7 @@ Widget toolkits, or things meant to be used in a similar way to them.
 * [GTK+][14] - Cross-platform widget toolkit. [``LGPL-2.1-only``][LGPL-2.1-only]
 * [IUP][16] - Another cross-platform widget toolkit. [``MIT``][MIT]
 * [microui][616] - Tiny immediate-mode UI library written in portable ANSI C. [``MIT``][MIT]
-* [nappgui][642] - Professional SDK to build cross-platform desktop applications using C.
+* [nappgui][441] - Professional SDK to build cross-platform desktop applications using C.
   [``MIT``][MIT]
 * [nuklear][408] - Small, C89, single-header widget toolkit. Public domain.
 * [tinyfiledialogs][426] - Single-file library for simple dialogs. Compatible
@@ -564,7 +568,7 @@ to C programming.
 * [8 gdb tricks you should know][206]
 * [10 C99 tricks][257]
 * [A comprehensive MPI tutorial resource][454]
-* [Build Your Own Text Editor][637]
+* [Build Your Own Text Editor][258]
 * [Diving into concurrency: trying out mutexes and atomics][202]
 * [Generic C reference counting][443]
 * [How to write portable C without complicating your build][490]
@@ -975,7 +979,7 @@ This includes libraries for things like XML, JSON, CSV, and other similar format
 
 ## Signal Processing ##
 
-* [libsigrok][624] -  signal analysis software suite that supports various
+* [libsigrok][578] -  signal analysis software suite that supports various
 device types (such as logic analyzers, oscilloscopes, multimeters, and more). [``GPL``][GPL]
 
 ## Testing ##
@@ -1164,7 +1168,7 @@ A 'catch-all' category for anything that doesn't fit well anywhere else.
 * [zproto][421] - Protocol framework for ZeroMQ. [``MIT``][MIT]
 * [Metalang99][603] - Full-blown preprocessor metaprogramming. [``MIT``][MIT]
 * [Datatype99][604] - Algebraic data types for C99. [``MIT``][MIT]
-* [EasyLogger][643] - An ultra-lightweight, high-performance C/C++ log library. [``MIT``][MIT]
+* [EasyLogger][591] - An ultra-lightweight, high-performance C/C++ log library. [``MIT``][MIT]
 * [MetaCall][607] - A library for providing inter-language foreign function interface calls.
   [``Apache-2.0``][Apache-2.0]
 
@@ -1195,9 +1199,9 @@ support for C.
 * [MSYS2][428] - Minimal SYStem 2; aims to provide support for a POSIX
   environment on Windows, with a package manager based on Arch Linux's
   pacman. Packages have individual licenses, otherwise, as MinGW and Cygwin.
-* [w64devkit][634] - Portable C and C++ Development Kit for x64 (and x86) Windows.
-  [busybox-w32][635] is [``GPL-2.0-only``][GPL-2.0-only].
-  [pdpmake][636] is Public Domain.
+* [w64devkit][247] - Portable C and C++ Development Kit for x64 (and x86) Windows.
+  [busybox-w32][249] is [``GPL-2.0-only``][GPL-2.0-only].
+  [pdpmake][250] is Public Domain.
   w64devkit itself is [``Unlicense``][Unlicense].
   Note: default Make implementation is GNU Make.
 
@@ -1327,7 +1331,7 @@ support for C.
 [89]: http://expat.sourceforge.net/
 [90]: https://www.sfml-dev.org/download/csfml/
 [91]: https://www.sfml-dev.org/index.php
-
+[92]: https://github.com/SpartanJ/SOIL2
 [93]: https://github.com/keybuk/libnih
 [94]: http://cunit.sourceforge.net/
 [95]: https://rr-project.org/
@@ -1384,7 +1388,9 @@ support for C.
 [146]: https://en.wikipedia.org/wiki/POSIX_Threads
 [147]: https://www.opengl.org/
 [148]: http://www.sgi.com/tech/opengl/?/license.html
-
+[149]: https://duckdb.org/
+[150]: https://github.com/armink/FlashDB
+[151]: https://github.com/taosdata/TDengine
 [152]: https://sites.google.com/site/lccretargetablecompiler/
 [153]: https://github.com/drh/lcc/blob/master/CPYRIGHT
 [154]: https://github.com/swenson/vector.h
@@ -1419,7 +1425,7 @@ support for C.
 [183]: http://shop.oreilly.com/product/0636920026136.do
 [184]: https://www.pearson.com/us/higher-education/program/Prata-C-Primer-Plus-6th-Edition/PGM4399.html
 [185]: http://www.planetpdf.com/codecuts/pdfs/ooc.pdf
-
+[186]: https://wiki.gnome.org/Projects/GLib
 [187]: https://github.com/dvidelabs/flatcc
 [188]: http://apophenia.info
 [189]: https://github.com/b-k/apophenia/blob/master/install/COPYING
@@ -1480,9 +1486,10 @@ support for C.
 [244]: http://sophia.systems
 [245]: http://www.greenend.org.uk/rjk/tech/inline.html
 [246]: https://criterion.readthedocs.io/en/master
-
+[247]: https://github.com/skeeto/w64devkit
 [248]: https://en.wikibooks.org/wiki/C_Programming
-
+[249]: https://github.com/rmyorston/busybox-w32
+[250]: https://github.com/rmyorston/pdpmake
 [251]: http://mingw.org/
 [252]: http://mingw.org/license
 [253]: https://cygwin.com/
@@ -1490,7 +1497,7 @@ support for C.
 [255]: http://flintlib.org/
 [256]: http://pari.math.u-bordeaux.fr/
 [257]: http://blog.noctua-software.com/c-tricks.html
-
+[258]: https://viewsourcecode.org/snaptoken/kilo/
 [259]: https://spdx.org/licenses/EPL-1.0.html
 [260]: https://netbeans.org/
 [261]: https://github.com/JonnyWhatshisface/libwebsock
@@ -1656,6 +1663,7 @@ support for C.
 [421]: https://github.com/zeromq/zproto
 [422]: https://github.com/it4e/CHL
 [423]: http://www.koanlogic.com/klone/
+[424]: https://github.com/erkkah/tigr
 [425]: http://savannah.nongnu.org/projects/attr/
 [426]: https://sourceforge.net/projects/tinyfiledialogs/
 [427]: http://www.bzip.org/
@@ -1672,7 +1680,7 @@ support for C.
 [438]: http://www.pell.portland.or.us/~orc/Code/discount/
 [439]: https://github.com/clMathLibraries/clBLAS
 [440]: https://criu.org/Main_Page
-
+[441]: https://nappgui.com/
 [442]: http://libdill.org/
 [443]: https://nullprogram.com/blog/2015/02/17
 [444]: https://github.com/ands/lightmapper
@@ -1809,7 +1817,7 @@ support for C.
 [575]: https://lvgl.io/
 [576]: https://github.com/ianh/owl
 [577]: https://github.com/zhaojh329/libuhttpd
-
+[578]: https://sigrok.org/wiki/Libsigrok
 [579]: https://github.com/silgy/silgy
 [580]: https://github.com/small-c/obj.h
 [581]: https://github.com/zeromq/libzmq
@@ -1822,7 +1830,7 @@ support for C.
 [588]: https://github.com/saprykin/plibsys
 [589]: https://github.com/Jorengarenar/libXDGdirs
 [590]: https://github.com/sammycage/plutovg
-
+[591]: https://github.com/armink/EasyLogger
 [592]: https://github.com/graphitemaster/incbin
 [593]: https://libzip.org
 [594]: https://github.com/tek256/astera
@@ -1855,24 +1863,13 @@ support for C.
 [621]: https://github.com/pspdev/pspsdk/blob/master/LICENSE
 [622]: https://remove-to-waste.info
 [623]: https://github.com/ashvardanian/StringZilla
-[624]: https://sigrok.org/wiki/Libsigrok
-[625]: https://github.com/floooh/sokol
-[626]: https://github.com/edubart/sokol_gp
-[627]: https://github.com/gozfree/gear-lib
-[628]: https://github.com/stclib/STC
-[629]: https://ooc-coding.sourceforge.net/
-[630]: https://github.com/GorgonMeducer/PLOOC
-[631]: https://github.com/CObjectSystem/COS
-[632]: https://github.com/LADSoft/OrangeC
-[633]: https://github.com/LADSoft/OrangeC/blob/master/LICENSE.TXT
-[634]: https://github.com/skeeto/w64devkit
-[635]: https://github.com/rmyorston/busybox-w32
-[636]: https://github.com/rmyorston/pdpmake
-[637]: https://viewsourcecode.org/snaptoken/kilo/
-[638]: https://wiki.gnome.org/Projects/GLib
-[639]: https://duckdb.org/
-[640]: https://github.com/armink/FlashDB
-[641]: https://github.com/taosdata/TDengine
-[642]: https://nappgui.com/
-[643]: https://github.com/armink/EasyLogger
+[624]: https://github.com/floooh/sokol
+[625]: https://github.com/edubart/sokol_gp
+[626]: https://github.com/gozfree/gear-lib
+[627]: https://github.com/stclib/STC
+[628]: https://ooc-coding.sourceforge.net/
+[629]: https://github.com/GorgonMeducer/PLOOC
+[630]: https://github.com/CObjectSystem/COS
+[631]: https://github.com/LADSoft/OrangeC
+[632]: https://github.com/LADSoft/OrangeC/blob/master/LICENSE.TXT
 
