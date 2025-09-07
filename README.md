@@ -1612,7 +1612,7 @@ support for C.
 [349]: https://www.recurse.com/blog/5-learning-c-with-gdb
 [350]: https://github.com/P-p-H-d/mlib
 [351]: https://www.gnu.org/software/gperf/
-[352]: http://libmill.org/
+[352]: https://libmill.org/
 [353]: https://talloc.samba.org/talloc/doc/html/index.html
 [354]: https://github.com/libimobiledevice/libimobiledevice
 [355]: http://kitsune-dsu.com/
