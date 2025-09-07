@@ -127,7 +127,7 @@ Compilers, as well as compiler- and compilation-related tooling.
   C11. [``GPL-3.0-or-later``][GPL-3.0-or-later]
 * [PCC][74] - Venerable compiler. Supports C99. [Various licenses][75], all
   open source.
-* [OrangeC][632] - OrangeC Compiler And Tool Chain. [Various licenses][633]
+* [OrangeC][631] - OrangeC Compiler And Tool Chain. [Various licenses][632]
 
 ## Compression ##
 
@@ -316,7 +316,7 @@ Databases and data stores with C APIs.
 * [vector.h][154] - Header library for typed lists. [``MIT``][MIT]
 * [hashmap][15] - Templated type-safe hashmap implementation in C using open addressing and linear
   probing for collision resolution. [``MIT``][MIT]
-* [STC][628] - STC is a mature, comprehensive, general purpose container and algorithm library
+* [STC][627] - STC is a mature, comprehensive, general purpose container and algorithm library
   for C99/C11. [``MIT``][MIT]
 
 ## Debugging ##
@@ -394,7 +394,7 @@ Big libraries that provide data structures and other stuff you expect of a
 * [TBOX][398] - Multi-platform library with a large number of
   capabilities. [``Apache-2.0``][Apache-2.0]
 * [pspsdk][620] - An open-source SDK for PSP homebrew development. [Various licences][621].
-* [gear-lib][627] - Gear-Lib, C library for IOT Embedded Multimedia and Network. [``MIT``][MIT]
+* [gear-lib][626] - Gear-Lib, C library for IOT Embedded Multimedia and Network. [``MIT``][MIT]
 
 ## Game Programming ##
 
@@ -440,7 +440,7 @@ Engines, libraries and other helpful things specifically for making games.
   a simple alternative to other libraries for doing all those things.
   Various licenses, all open source.
 * [uastar][535] - Minimal A\* implementation. [``ZLib``][Zlib]
-* [sokol_gp][626] - Minimal modern efficient cross platform 2D graphics painter in C.
+* [sokol_gp][625] - Minimal modern efficient cross platform 2D graphics painter in C.
   [``MIT-0``][MIT-0]
 * [SOIL2][92] - SOIL2 is a tiny C library used primarily for uploading textures into OpenGL.
   [``MIT-0``][MIT-0]
@@ -862,7 +862,7 @@ the Frameworks section.
 * [par][456] - Bunch of single-file libraries. [``MIT``][MIT]
 * [Snippets][220] - Useful code snippets and header-only libraries. Public domain.
 * [stb][114] - Range of single-file libraries. Public domain.
-* [sokol][625] - minimal cross-platform standalone C headers. [``Zlib``][Zlib]
+* [sokol][624] - minimal cross-platform standalone C headers. [``Zlib``][Zlib]
 * [tinyheaders][108] - Collection of header-only libraries, primarily oriented
   toward game development. [``Zlib``][Zlib]
 * [zpl][602] - C99 cross-platform header-only library with many goodies.
@@ -1134,12 +1134,12 @@ A 'catch-all' category for anything that doesn't fit well anywhere else.
 * [nope.c][209] - Ultra-light software platform for scalable server-side and
   networking applications (think node.js for C programmers). [``GPL-2.0-only``][GPL-2.0-only]
 * [obj.h][580] - A single-header supports OOP in pure C. [``MIT``][MIT]
-* [OOC][629] - Object Oriented C (oo tools for C) kit is for those who want to program in an
+* [OOC][628] - Object Oriented C (oo tools for C) kit is for those who want to program in an
   object oriented manner, but stick on the good old C as well.
   [``LGPL-3.0-or-later``][LGPL-3.0-or-later]
-* [PLOOC][630] - Protected Low-overhead Object Oriented Programming with ANSI-C.
+* [PLOOC][629] - Protected Low-overhead Object Oriented Programming with ANSI-C.
   [``Apache-2.0``][Apache-2.0]
-* [COS][631] - C Object System: a framework that brings C
+* [COS][630] - C Object System: a framework that brings C
   to the level of other high level programming languages and beyond. [``Apache-2.0``][Apache-2.0]
 * [parg][274] - A single-file reimplementation of ``getopt`` with better defaults.
   [``CC0-1.0``][CC0-1.0]
