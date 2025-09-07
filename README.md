@@ -448,6 +448,8 @@ Engines, libraries and other helpful things specifically for making games.
   [``Unlicense``][Unlicense]
 * [linmath.h][52] - a lean linear math library, aimed at graphics programming.
   Supports vec3, vec4, mat4x4 and quaternions [``WTFPL``][WTFPL]
+* [HandmadeMath][81] - A simple math library for games and computer graphics.
+  Compatible with both C and C++. [``CC0-1.0``][CC0-1.0]
 
 ## Graphics ##
 
@@ -1323,7 +1325,7 @@ support for C.
 [78]: http://apr.apache.org/
 [79]: https://gmplib.org/
 [80]: https://github.com/cesanta/slre
-[81]: http://tiny-rex.sourceforge.net/
+[81]: https://github.com/HandmadeMath/HandmadeMath
 [82]: https://github.com/laurikari/tre/
 [83]: http://www.pcre.org/
 [84]: https://github.com/Tuplanolla/cheat
