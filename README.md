@@ -451,6 +451,8 @@ Engines, libraries and other helpful things specifically for making games.
   Supports vec3, vec4, mat4x4 and quaternions [``WTFPL``][WTFPL]
 * [HandmadeMath][81] - A simple math library for games and computer graphics.
   Compatible with both C and C++. [``CC0-1.0``][CC0-1.0]
+* [Equilibrium Engine][217] - Data-oriented and multi-threaded C11 Game Engine with
+  libraries & shaders hot-reloading. [``GPL-2.0-or-later``][GPL-2.0-or-later]
 
 ## Graphics ##
 
@@ -1462,7 +1464,7 @@ support for C.
 [214]: https://github.com/adamierymenko/huffandpuff
 [215]: https://sourceforge.net/projects/vtd-xml/
 [216]: https://michaelrsweet.github.io?Z3
-[217]: http://svn.msweet.org/mxml/trunk/COPYING
+[217]: https://github.com/clibequilibrium/EquilibriumEngine
 [218]: http://ezxml.sourceforge.net/
 [219]: https://github.com/blunderer/libroxml
 [220]: https://github.com/DanielGibson/Snippets/
