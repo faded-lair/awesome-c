@@ -510,6 +510,8 @@ Widget toolkits, or things meant to be used in a similar way to them.
 * [LVGL][575] - embedded GUI with easy-to-use graphical elements, beautiful visuals and
   a low memory footprint. [``MIT``][MIT]
 * [luigi][614] - A barebones single-header GUI library for Win32, X11 and Essence. [``MIT``][MIT]
+* [dwindows][211] - A GTK-like window toolkit for creating modern crossplatform applications.
+  (OS/2, Windows, Unix, Mac, iOS, Android) [``BSD-3-Clause``][BSD-3-Clause]
 
 ## Hashing ##
 
@@ -1435,7 +1437,7 @@ support for C.
 [208]: http://nethack4.org/blog/building-c.html
 [209]: https://github.com/riolet/WAFer
 [210]: https://docs.google.com/presentation/d/1h49gY3TSiayLMXYmRMaAEMl05FaJ-Z6jDOWOz3EsqqQ/edit?pli=1#slide=id.gaf50702c_0153
-
+[211]: https://github.com/dbsoft/dwindows
 [212]: http://www.crasseux.com/books/ctut.pdf
 [213]: https://pdos.csail.mit.edu/6.828/2017/readings/pointers.pdf
 [214]: https://github.com/adamierymenko/huffandpuff
