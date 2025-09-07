@@ -314,6 +314,8 @@ Databases and data stores with C APIs.
 * [vector.h][154] - Header library for typed lists. [``MIT``][MIT]
 * [hashmap][15] - Templated type-safe hashmap implementation in C using open addressing and linear
   probing for collision resolution. [``MIT``][MIT]
+* [STC][628] - STC is a mature, comprehensive, general purpose container and algorithm library
+  for C99/C11. [``MIT``][MIT]
 
 ## Debugging ##
 
@@ -1863,6 +1865,7 @@ support for C.
 [625]: https://github.com/floooh/sokol
 [626]: https://github.com/edubart/sokol_gp
 [627]: https://github.com/gozfree/gear-lib
+[628]: https://github.com/stclib/STC
 
 [700]: https://viewsourcecode.org/snaptoken/kilo/
 [701]: https://wiki.gnome.org/Projects/GLib
