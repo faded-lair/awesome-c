@@ -1209,6 +1209,11 @@ support for C.
 * [MSYS2][428] - Minimal SYStem 2; aims to provide support for a POSIX
   environment on Windows, with a package manager based on Arch Linux's
   pacman. Packages have individual licenses, otherwise, as MinGW and Cygwin.
+* [w64devkit][634] - Portable C and C++ Development Kit for x64 (and x86) Windows.
+  [busybox-w32][635] is [``GPL-2.0-only``][GPL-2.0-only].
+  [pdpmake][636] is Public Domain.
+  w64devkit itself is [``Unlicense``][Unlicense].
+  Note: default Make implementation is GNU Make.
 
 
 [AFL-2.1]: https://spdx.org/licenses/AFL-2.1.html
@@ -1877,6 +1882,9 @@ support for C.
 [631]: https://github.com/CObjectSystem/COS
 [632]: https://github.com/LADSoft/OrangeC
 [633]: https://github.com/LADSoft/OrangeC/blob/master/LICENSE.TXT
+[634]: https://github.com/skeeto/w64devkit
+[635]: https://github.com/rmyorston/busybox-w32
+[636]: https://github.com/rmyorston/pdpmake
 
 [700]: https://viewsourcecode.org/snaptoken/kilo/
 [701]: https://wiki.gnome.org/Projects/GLib
