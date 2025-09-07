@@ -312,6 +312,7 @@ Databases and data stores with C APIs.
   scenarios like augmentation, multiple compatible ordering functions, and more. [``MIT``][MIT]
 * [uthash][273] - Single-file hash table implementation. [``BSD-1-Clause``][BSD-1-Clause]
 * [vector.h][154] - Header library for typed lists. [``MIT``][MIT]
+* [hashmap][15] - Templated type-safe hashmap implementation in C using open addressing and linear probing for collision resolution. [``MIT``][MIT]
 
 ## Debugging ##
 
@@ -1236,7 +1237,7 @@ support for C.
 [12]: https://uclibc-ng.org/
 [13]: https://opensource.org/osd
 [14]: https://www.gtk.org/
-
+[15]: https://github.com/DavidLeeds/hashmap
 [16]: http://webserver2.tecgraf.puc-rio.br/iup/
 [17]: https://github.com/saitoha/libsixel
 [18]: https://www.enlightenment.org?p=about%252Flibs
