@@ -257,7 +257,7 @@ Databases and data stores with C APIs.
 
 * [BerkeleyDB][380] - Library for a high-performance embedded database for
   key-value data. [``AGPL-3.0-only``][AGPL-3.0-only]
-* [DuckDB][702] - Fast in-process analytical database, with C API. [``MIT``][MIT] 
+* [DuckDB][639] - Fast in-process analytical database, with C API. [``MIT``][MIT] 
 * [EJDB2][568] - Embeddable JSON Database engine. [``MIT``][MIT]
 * [Groonga][524] - Columnar store with full-text search. [``LGPL-2.1-only``][LGPL-2.1-only]
 * [Hiredis][201] - Minimalistic client library for Redis.
@@ -278,9 +278,9 @@ Databases and data stores with C APIs.
   transactional NoSQL engine. [``BSD-2-Clause``][BSD-2-Clause]
 * [WhiteDB][512] - Lightweight database library, operating entirely in main
   memory. [``GPL-3.0-or-later``][GPL-3.0-or-later]
-* [FlashDB][703] - An ultra-lightweight database that supports key-value and 
+* [FlashDB][640] - An ultra-lightweight database that supports key-value and 
   time series data. [``Apache-2.0``][Apache-2.0]
-* [TDengine][704] - High-performance, cloud native time-series database. 
+* [TDengine][641] - High-performance, cloud native time-series database. 
   [``AGPL-3.0-only``][AGPL-3.0-only]
 
 ## Data Structures ##
@@ -392,7 +392,7 @@ Big libraries that provide data structures and other stuff you expect of a
   [``GPL-2.0-only``][GPL-2.0-only]
 * [EFL][119] - Large collection of useful data structures and
   functions. Various licenses, all open source.
-* [GLib][701] - Library of utility functions and structures, designed to be
+* [GLib][638] - Library of utility functions and structures, designed to be
   portable, efficient and powerful. [``LGPL-2.1-only``][LGPL-2.1-only]
 * [klib][76] - Small and lightweight implementations of common algorithms and
   data structures. [``MIT``][MIT]
@@ -505,7 +505,7 @@ Widget toolkits, or things meant to be used in a similar way to them.
 * [GTK+][14] - Cross-platform widget toolkit. [``LGPL-2.1-only``][LGPL-2.1-only]
 * [IUP][16] - Another cross-platform widget toolkit. [``MIT``][MIT]
 * [microui][616] - Tiny immediate-mode UI library written in portable ANSI C. [``MIT``][MIT]
-* [nappgui][705] - Professional SDK to build cross-platform desktop applications using C. [``MIT``][MIT]
+* [nappgui][642] - Professional SDK to build cross-platform desktop applications using C. [``MIT``][MIT]
 * [nuklear][408] - Small, C89, single-header widget toolkit. Public domain.
 * [tinyfiledialogs][426] - Single-file library for simple dialogs. Compatible
   with many other toolkits and OSes. [``Zlib``][Zlib]
@@ -577,7 +577,7 @@ to C programming.
 * [8 gdb tricks you should know][206]
 * [10 C99 tricks][257]
 * [A comprehensive MPI tutorial resource][454]
-* [Build Your Own Text Editor][700]
+* [Build Your Own Text Editor][637]
 * [Diving into concurrency: trying out mutexes and atomics][202]
 * [Generic C reference counting][443]
 * [How to write portable C without complicating your build][490]
@@ -1180,7 +1180,7 @@ A 'catch-all' category for anything that doesn't fit well anywhere else.
 * [zproto][421] - Protocol framework for ZeroMQ. [``MIT``][MIT]
 * [Metalang99][603] - Full-blown preprocessor metaprogramming. [``MIT``][MIT]
 * [Datatype99][604] - Algebraic data types for C99. [``MIT``][MIT]
-* [EasyLogger][706] - An ultra-lightweight, high-performance C/C++ log library. [``MIT``][MIT]
+* [EasyLogger][643] - An ultra-lightweight, high-performance C/C++ log library. [``MIT``][MIT]
 
 ## Web Frameworks ##
 
@@ -1885,12 +1885,11 @@ support for C.
 [634]: https://github.com/skeeto/w64devkit
 [635]: https://github.com/rmyorston/busybox-w32
 [636]: https://github.com/rmyorston/pdpmake
-
-[700]: https://viewsourcecode.org/snaptoken/kilo/
-[701]: https://wiki.gnome.org/Projects/GLib
-[702]: https://duckdb.org/
-[703]: https://github.com/armink/FlashDB
-[704]: https://github.com/taosdata/TDengine
-[705]: https://nappgui.com/
-[706]: https://github.com/armink/EasyLogger
+[637]: https://viewsourcecode.org/snaptoken/kilo/
+[638]: https://wiki.gnome.org/Projects/GLib
+[639]: https://duckdb.org/
+[640]: https://github.com/armink/FlashDB
+[641]: https://github.com/taosdata/TDengine
+[642]: https://nappgui.com/
+[643]: https://github.com/armink/EasyLogger
 
