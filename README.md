@@ -1263,6 +1263,7 @@ support for C.
 [WTFPL]: https://spdx.org/licenses/WTFPL.html
 [X11]: https://spdx.org/licenses/X11.html
 [Zlib]: https://spdx.org/licenses/Zlib.html
+[OpenSSL]: https://spdx.org/licenses/OpenSSL.html
 
 [1]: https://github.com/Dead2/zlib-ng
 [2]: https://github.com/Cyan4973/FiniteStateEntropy
