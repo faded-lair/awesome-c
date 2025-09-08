@@ -543,6 +543,7 @@ Widget toolkits, or things meant to be used in a similar way to them.
 * [MiniGUI][640] - A modern and mature cross-platform window system for embedded systems.
   [``GPL-3.0-or-later``][GPL-3.0-or-later]
 * [u8g2][641] - U8glib library for monochrome displays, version 2. [``BSD-2-Clause``][BSD-2-Clause]
+* [Clay][647] - High performance UI layout library in C. [``Zlib``][Zlib]
 
 ## Hashing ##
 
@@ -1926,4 +1927,5 @@ support for C.
 [644]: https://github.com/piaodazhu/dyco-coroutine
 [645]: https://github.com/eduard-permyakov/permafrost-engine
 [646]: https://github.com/matrixcascade/PainterEngine
+[647]: https://github.com/nicbarker/clay/
 
