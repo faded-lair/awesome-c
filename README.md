@@ -237,6 +237,8 @@ protocols.
   [License][635].
 * [Mbed TLS][291] - Implementation of the SSL/TLS and DTLS protocols. [``Apache-2.0``][Apache-2.0]
 * [s2n][359] - C99 implementation of the TLS/SSL protocols. [``Apache-2.0``][Apache-2.0]
+* [NSS][636] - A set of cryptographic libraries designed to support cross-platform development of
+  security-enabled client and server applications. [``MPL-2.0``][MPL-2.0]
 * [liboqs][493] - Library for quantum-resistant cryptographicl algorithms. [``MIT``][MIT]
 * [libsodium][198] - Modern and easy-to-use crypto library. [``MIT``][MIT]
 * [libtomcrypt][299] - Fairly comprehensive, modular and portable cryptographic toolkit.
@@ -366,6 +368,8 @@ Big libraries that provide data structures and other stuff you expect of a
 
 * [APR][78] - Apache Portable Runtime; another library of cross-platform utility
   functions. [``Apache-2.0``][Apache-2.0]
+* [NSPR][637] - A platform-neutral API for system level and libc like functions.
+  [``MPL-2.0``][MPL-2.0]
 * [C Algorithms][88] - Collection of common algorithms and data structures. [``ISC``][ISC]
 * [CPL][308] - The Common Pipeline Library; a set of libraries designed to be a
   comprehensive, efficient and robust software toolkit.
@@ -1894,4 +1898,6 @@ support for C.
 [633]: https://github.com/libressl/portable/blob/master/COPYING
 [634]: https://www.wolfssl.com/license/
 [635]: https://bearssl.org/#legal-details
+[636]: https://firefox-source-docs.mozilla.org/security/nss/index.html
+[637]: https://firefox-source-docs.mozilla.org/nspr/index.html
 
