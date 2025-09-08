@@ -1279,7 +1279,7 @@ support for C.
 [13]: https://opensource.org/osd
 [14]: https://www.gtk.org/
 [15]: https://github.com/DavidLeeds/hashmap
-[16]: http://webserver2.tecgraf.puc-rio.br/iup/
+[16]: https://www.tecgraf.puc-rio.br/iup/
 [17]: https://github.com/saitoha/libsixel
 [18]: https://www.enlightenment.org?p=about%252Flibs
 [19]: http://www.tcl.tk/
