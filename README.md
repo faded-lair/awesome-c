@@ -269,6 +269,7 @@ Databases and data stores with C APIs.
 * [MySQL][551] - The world's most popular open source database. [``GPL-2.0-only``][GPL-2.0-only]
 * [PostgreSQL][121] - Powerful object-relational database system. [``PostgreSQL``][PostgreSQL]
 * [Redis][51] - Advanced key-value store. [``BSD-3-Clause``][BSD-3-Clause]
+* [monotone][638] - Embeddable Cloud-Native Key-Value Storage For Sequential Data. [``MIT``][MIT]
 * [sparkey][509] - Simple constant key/value storage library.
   Designed for read-heavy loads with infrequent, large bulk inserts.
   [``Apache-2.0``][Apache-2.0]
@@ -1900,4 +1901,5 @@ support for C.
 [635]: https://bearssl.org/#legal-details
 [636]: https://firefox-source-docs.mozilla.org/security/nss/index.html
 [637]: https://firefox-source-docs.mozilla.org/nspr/index.html
+[638]: https://github.com/amelielabs/monotone
 
