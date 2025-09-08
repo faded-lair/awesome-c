@@ -192,6 +192,8 @@ Compilers, as well as compiler- and compilation-related tooling.
   parallelism, with built-in checking for race conditions. [``BSD-2-Clause``][BSD-2-Clause]
 * [ck][242] - Concurrency primitives, safe memory reclamation mechanisms and
   non-blocking data structures. [``BSD-2-Clause``][BSD-2-Clause]
+* [dyco-coroutine][644] - Coroutine framework with Channel, SSL hook, waitgroup, etc.
+  [``GPL-3.0-or-later``][GPL-3.0-or-later]
 * [FCFS RWLock][540] - First-come first-served Readers/Writers lock for POSIX threads.
   [``CC0-1.0``][CC0-1.0]
 * [Libaco][599] - A blazing fast and lightweight C asymmetric coroutine library.
@@ -319,6 +321,8 @@ Databases and data stores with C APIs.
   probing for collision resolution. [``MIT``][MIT]
 * [STC][627] - STC is a mature, comprehensive, general purpose container and algorithm library
   for C99/C11. [``MIT``][MIT]
+* [clibs][643] - Simple, fast, threadsafe C language hashtable, LRU map, Thread pool,
+  go like channel, vector. [``MIT``][MIT]
 
 ## Debugging ##
 
@@ -530,6 +534,9 @@ Widget toolkits, or things meant to be used in a similar way to them.
   native GUI technologies of each platform it supports. [``MIT``][MIT]
 * [AWTK][506] - AWTK = Toolkit AnyWhere (a cross-platform embedded GUI)
   [``LGPL-2.1-or-later``][LGPL-2.1-or-later]
+* [MiniGUI][640] - A modern and mature cross-platform window system for embedded systems.
+  [``GPL-3.0-or-later``][GPL-3.0-or-later]
+* [u8g2][641] - U8glib library for monochrome displays, version 2. [``BSD-2-Clause``][BSD-2-Clause]
 
 ## Hashing ##
 
@@ -671,6 +678,8 @@ to do with managing C memory lives here.
 * [tlsf][531] - Two-Level Segregated Fit allocator;
   a general-purpose, dynamic memory allocator designed to meet real-time requirements.
   [Up-to-date implementation][532]. [``BSD-3-Clause``][BSD-3-Clause]
+* [c-raii][642] - An general RAII implementation for C, with Defer,
+  simple high-level C11/C++11 like Threading/Futures, custom malloc/heap allocation. [``MIT``][MIT]
 
 ## Multimedia ##
 
@@ -952,6 +961,7 @@ This includes libraries for things like XML, JSON, CSV, and other similar format
 ### CSV ###
 
 * [libcsv][387] - Simple, streaming CSV parser. [``LGPL-2.1-or-later``][LGPL-2.1-or-later]
+* [zsv][639] - a fast CSV parser (simd) library and extensible command-line utility. [``MIT``][MIT]
 
 ### JSON ###
 
@@ -1902,4 +1912,10 @@ support for C.
 [636]: https://firefox-source-docs.mozilla.org/security/nss/index.html
 [637]: https://firefox-source-docs.mozilla.org/nspr/index.html
 [638]: https://github.com/amelielabs/monotone
+[639]: https://github.com/liquidaty/zsv
+[640]: https://github.com/VincentWei/MiniGUI
+[641]: https://github.com/olikraus/u8g2
+[642]: https://github.com/zelang-dev/c-raii
+[643]: https://github.com/paulborile/clibs
+[644]: https://github.com/piaodazhu/dyco-coroutine
 
