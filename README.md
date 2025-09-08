@@ -235,18 +235,17 @@ protocols.
 * [wolfSSL][74] - Implementation of TLS/SSL for embedded devices. [License][634].
 * [BearSSL][75] - Implementation of SSL/TLS for embedded systems, currently beta-quality software.
   [License][635].
+* [Mbed TLS][291] - Implementation of the SSL/TLS and DTLS protocols. [``Apache-2.0``][Apache-2.0]
+* [s2n][359] - C99 implementation of the TLS/SSL protocols. [``Apache-2.0``][Apache-2.0]
 * [liboqs][493] - Library for quantum-resistant cryptographicl algorithms. [``MIT``][MIT]
 * [libsodium][198] - Modern and easy-to-use crypto library. [``MIT``][MIT]
 * [libtomcrypt][299] - Fairly comprehensive, modular and portable cryptographic toolkit.
   Public domain.
-* [Mbed TLS][291] - Another crypto implementation. [``Apache-2.0``][Apache-2.0]
 * [MIRACL][480] - Multiprecision Integer and Rational Arithmetic Cryptographic Library;
   an SDK for elliptic curve cryptography.
   [``AGPL-3.0-or-later``][AGPL-3.0-or-later]
 * [retter][507] - Collection of hash functions, ciphers, tools, libraries and materials
   related to cryptography and security. Public domain.
-* [s2n][359] - C99 implementation of the TLS/SSL protocols, designed to be
-  simple, fast and with security as a priority. [``Apache-2.0``][Apache-2.0]
 * [sphlib][526] - Set of implementations of various hash functions, including
   several cryptographic ones. [``MIT``][MIT]
 * [trezor-crypto][485] - Heavily optimized crypto algorithms for embedded devices. [``MIT``][MIT]
@@ -1618,7 +1617,7 @@ support for C.
 [356]: https://github.com/abiggerhammer/hammer
 [357]: http://250bpm.com/blog:56
 [358]: https://web.archive.org/web/20170429175803/http://www.samnip.ps/thought/macro-storage-for-inverse-comma
-[359]: https://github.com/awslabs/s2n
+[359]: https://github.com/awslabs/s2n-tls
 [360]: https://github.com/wooorm/levenshtein.c
 [361]: https://pp.ipd.kit.edu/firm/
 [362]: http://www.etalabs.net/compare_libcs.html
