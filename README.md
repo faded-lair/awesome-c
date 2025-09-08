@@ -230,15 +230,11 @@ protocols.
   [``LGPL-2.1-or-later``][LGPL-2.1-or-later]
 * [libgcrypt][142] - General-purpose cryptography library, with a range of available ciphers.
   [``LGPL-2.1-or-later``][LGPL-2.1-or-later]
-* [OpenSSL][110] - Implementation of the SSL and TLS protocols.
-  Also includes a cryptography library.
-  [Dual Licensed under the OpenSSL License and the SSLeay License][111].
-* [LibreSSL][143] - Fork of OpenSSL 1.0.1g focused on modernizing the codebase,
-  improving security, and applying best programming practices.
-* [wolfSSL][74] - The wolfSSL library is a small, fast, portable implementation of TLS/SSL for
-  embedded devices to the cloud.
-* [BearSSL][75] - Implementation of the SSL/TLS protocol aimed at small footprint and suitability 
-  for embedded systems.
+* [OpenSSL][110] - TLS/SSL and crypto library. [License][111].
+* [LibreSSL][143] - Fork of OpenSSL 1.0.1g. [License][633].
+* [wolfSSL][74] - Implementation of TLS/SSL for embedded devices. [License][634].
+* [BearSSL][75] - Implementation of SSL/TLS for embedded systems, currently beta-quality software.
+  [License][635].
 * [liboqs][493] - Library for quantum-resistant cryptographicl algorithms. [``MIT``][MIT]
 * [libsodium][198] - Modern and easy-to-use crypto library. [``MIT``][MIT]
 * [libtomcrypt][299] - Fairly comprehensive, modular and portable cryptographic toolkit.
@@ -1263,7 +1259,6 @@ support for C.
 [WTFPL]: https://spdx.org/licenses/WTFPL.html
 [X11]: https://spdx.org/licenses/X11.html
 [Zlib]: https://spdx.org/licenses/Zlib.html
-[OpenSSL]: https://spdx.org/licenses/OpenSSL.html
 
 [1]: https://github.com/Dead2/zlib-ng
 [2]: https://github.com/Cyan4973/FiniteStateEntropy
@@ -1897,4 +1892,7 @@ support for C.
 [630]: https://github.com/CObjectSystem/COS
 [631]: https://github.com/LADSoft/OrangeC
 [632]: https://github.com/LADSoft/OrangeC/blob/master/LICENSE.TXT
+[633]: https://github.com/libressl/portable/blob/master/COPYING
+[634]: https://www.wolfssl.com/license/
+[635]: https://bearssl.org/#legal-details
 
