@@ -760,7 +760,10 @@ comprehensive and high-level, you may want the Web Frameworks section.
 * [Wslay][460] - WebSocket library. Implements version 13 of the WebSocket protocol,
   as described in RFC 6455. [``MIT``][MIT]
 * [zyre][419] - Framework for proximity-based peer-to-peer applications. [``MPL-2.0``][MPL-2.0]
-* [acl][268] - C/C++ server and network library
+* [acl][268] - C/C++ server and network library,
+  including coroutine,redis client,http/https/websocket,mqtt, mysql/postgresql/sqlite client
+  with C/C++ for Linux, Android, iOS, MacOS, Windows, etc..
+  [``LGPL-3.0-or-later``][LGPL-3.0-or-later]
 
 ## Numerical ##
 
