@@ -465,8 +465,14 @@ Engines, libraries and other helpful things specifically for making games.
   Compatible with both C and C++. [``CC0-1.0``][CC0-1.0]
 * [Equilibrium Engine][217] - Data-oriented and multi-threaded C11 Game Engine with
   libraries & shaders hot-reloading. [``GPL-2.0-or-later``][GPL-2.0-or-later]
+* [Permafrost Engine][645] - Permafrost Engine is an OpenGL 3.3 Real Time Strategy game engine
+  written in C. It is made in the image of old classics, but incorporating some modern ideas.
+  [``GPL-3.0-or-later``][GPL-3.0-or-later]
 * [RGFW][244] - Lightweight multi-platform single-header library for creating windows,
   supports many graphics contexts and software rendering. [``Zlib``][Zlib]
+* [PainterEngine][646] - PainterEngine is a application/game engine with software renderer.
+  PainterEngine can be transplanted to any platform that supports C.
+  [``MIT``][MIT]
 
 ## Graphics ##
 
@@ -1918,4 +1924,6 @@ support for C.
 [642]: https://github.com/zelang-dev/c-raii
 [643]: https://github.com/paulborile/clibs
 [644]: https://github.com/piaodazhu/dyco-coroutine
+[645]: https://github.com/eduard-permyakov/permafrost-engine
+[646]: https://github.com/matrixcascade/PainterEngine
 
