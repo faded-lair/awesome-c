@@ -779,7 +779,7 @@ comprehensive and high-level, you may want the Web Frameworks section.
 * [acl][268] - C/C++ server and network library,
   including coroutine,redis client,http/https/websocket,mqtt, mysql/postgresql/sqlite client
   with C/C++ for Linux, Android, iOS, MacOS, Windows, etc..
-  [``LGPL-3.0-or-later``][LGPL-3.0-or-later]
+  [``LGPL-2.1-only``][LGPL-2.1-only]
 
 ## Numerical ##
 
