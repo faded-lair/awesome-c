@@ -1107,7 +1107,7 @@ A 'catch-all' category for anything that doesn't fit well anywhere else.
 * [CException][298] - Implementation of exceptions. [``MIT``][MIT]
 * [CommonMark][223] - Implementation of the CommonMark spec.
 * [cosmopolitan][597] - fast portable static native textmode containers
-  (build C programs for Linux\Mac\Windows in one go)
+  (build C programs for Linux\Mac\Windows in one go).
   [Variety of licenses, all open source][224].
 * [cpu\_features][319] - Get CPU features at runtime. [``Apache-2.0``][Apache-2.0].
 * [CRIU][440] - Checkpoint/Restore In Userspace; a software tool (with a C API)
