@@ -1195,6 +1195,7 @@ A 'catch-all' category for anything that doesn't fit well anywhere else.
 * [sort][190] - Collection of sorting routines, which type-specialize at
   compile-time with a user-defined type. [``MIT``][MIT]
 * [termbox][396] - Library for writing text-based interfaces. [``MIT``][MIT]
+* [termbox2][651] - terminal I/O library for creating TUIs. [``MIT``][MIT]
 * [tinyexpr][395] - Tiny recursive-descent parser, compiler and evaluation
   engine for simple mathematical expressions. [``BSD-3-Clause``][BSD-3-Clause]
 * [tm][543] - ⏱ Timer and Timeline Utils for C. [``MIT``][MIT]
@@ -1935,4 +1936,5 @@ support for C.
 [648]: https://github.com/OCamlPro/owi
 [649]: https://hal.science/hal-04627413
 [650]: https://github.com/an-dr/microlog
+[651]: https://github.com/termbox/termbox2
 
