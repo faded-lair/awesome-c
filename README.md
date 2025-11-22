@@ -1956,3 +1956,5 @@ support for C.
 [655]: https://github.com/gurugio/lowlevelprogramming-university
 [656]: https://github.com/happyfish100/libfastcommon
 [657]: https://raw.githubusercontent.com/VernonGrant/gnu-c-language-manual/main/gnu-c-language-manual.pdf
+[658]: https://llvm.org/LICENSE.txt
+
