@@ -1210,6 +1210,8 @@ A 'catch-all' category for anything that doesn't fit well anywhere else.
 * [Metalang99][603] - Full-blown preprocessor metaprogramming. [``MIT``][MIT]
 * [Datatype99][604] - Algebraic data types for C99. [``MIT``][MIT]
 * [EasyLogger][591] - An ultra-lightweight, high-performance C/C++ log library. [``MIT``][MIT]
+* [microlog][650] - Extensible and configurable logging library with topics for embedded and desktop 
+  [``MIT``][MIT]
 * [MetaCall][607] - A library for providing inter-language foreign function interface calls.
   [``Apache-2.0``][Apache-2.0]
 * [subprocess.h][323] - 🐜 single header process launching solution for C and C++
@@ -1932,4 +1934,5 @@ support for C.
 [647]: https://github.com/nicbarker/clay/
 [648]: https://github.com/OCamlPro/owi
 [649]: https://hal.science/hal-04627413
+[650]: https://github.com/an-dr/microlog
 
