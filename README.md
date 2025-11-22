@@ -459,7 +459,7 @@ Engines, libraries and other helpful things specifically for making games.
   [``MIT-0``][MIT-0]
 * [TIGR][424] - TIGR - the TIny GRaphics library for Windows, macOS, Linux, iOS and Android.
   [``Unlicense``][Unlicense]
-* [ufbx][132] - Single source file FBX loader [``MIT``, ``Unlicense``][MIT, Unlicense]
+* [ufbx][132] - Single source file FBX loader [`MIT`][MIT] or [`Unlicense`][Unlicense]
 * [linmath.h][52] - a lean linear math library, aimed at graphics programming.
   Supports vec3, vec4, mat4x4 and quaternions [``WTFPL``][WTFPL]
 * [HandmadeMath][81] - A simple math library for games and computer graphics.
