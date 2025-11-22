@@ -911,7 +911,7 @@ the Frameworks section.
 * [cute_headers][294] - Collection of cross-platform one-file C/C++ libraries with no dependencies,
   primarily used for games. [``Zlib``][Zlib] or [``Unlicense``][Unlicense]
 * [pico_headers][545] - Single-header, cross-platform libraries for game development.
-  [``Zlib``, ``Unlicense``][Zlib, Unlicense]
+  [``Zlib``][Zlib] or [``Unlicense``][Unlicense]
 * [gunslinger][552] - C99, header-only framework for games and multimedia applications.
   [``BSD-3-Clause``][BSD-3-Clause]
 
