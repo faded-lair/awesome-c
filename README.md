@@ -1116,7 +1116,7 @@ A 'catch-all' category for anything that doesn't fit well anywhere else.
 * [Caffeine][496] - Library for building daemons and services for Linux and FreeBSD systems.
   [``LGPL-2.1-or-later``][LGPL-2.1-or-later]
 * [CException][298] - Implementation of exceptions. [``MIT``][MIT]
-* [CommonMark][223] - Implementation of the CommonMark spec.
+* [CommonMark][223] - Implementation of the CommonMark spec. [``CC-BY-SA-4.0``][CC-BY-SA-4.0]
 * [cosmopolitan][597] - fast portable static native textmode containers
   (build C programs for Linux\Mac\Windows in one go).
   [Various licenses, all open source][224].
@@ -1270,6 +1270,7 @@ support for C.
 [BSD-3-Clause]: https://spdx.org/licenses/BSD-3-Clause.html
 [BSD-4-Clause]: https://spdx.org/licenses/BSD-4-Clause.html
 [CC0-1.0]: https://spdx.org/licenses/CC0-1.0.html
+[CC-BY-SA-4.0]: https://spdx.org/licenses/CC-BY-SA-4.0.html
 [curl]: https://spdx.org/licenses/curl.html
 [GPL-2.0-only]: https://spdx.org/licenses/GPL-2.0-only.html
 [GPL-2.0-or-later]: https://spdx.org/licenses/GPL-2.0-or-later.html
