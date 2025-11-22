@@ -896,6 +896,12 @@ the Frameworks section.
 * [clib][26] - Something of a package manager. Comes with a [bunch of libraries of its own][27].
   [``MIT``][MIT]
 * [gnulib][46] - Collection of common GNU code. Various licenses, all open source.
+* [zpl][602] - C99 cross-platform header-only library with many goodies.
+  [``BSD-3-Clause``][BSD-3-Clause] or [``Unlicense``][Unlicense]
+* [libs][20] - Single-file public domain libraries for C/C++.
+  [``MIT``][MIT] or [``Unlicense``][Unlicense]
+* [libfastcommon][656] - c common functions library copied only under the terms of
+  [``LGPL-3.0-or-later``][LGPL-3.0-or-later], detail info please see the c header files.
 * [libdjb][292] - Collection of libraries doing various things. (Apparently) public domain.
 * [mmx][448] - Collection of single-header libraries. Various licenses, all open source.
 * [par][456] - Bunch of single-file libraries. [``MIT``][MIT]
@@ -904,18 +910,12 @@ the Frameworks section.
 * [sokol][624] - minimal cross-platform standalone C headers. [``Zlib``][Zlib]
 * [tinyheaders][108] - Collection of header-only libraries, primarily oriented
   toward game development. [``Zlib``][Zlib]
-* [zpl][602] - C99 cross-platform header-only library with many goodies.
-  [``BSD-3-Clause``][BSD-3-Clause] or [``Unlicense``][Unlicense]
-* [libs][20] - Single-file public domain libraries for C/C++.
-  [``MIT``][MIT] or [``Unlicense``][Unlicense]
 * [cute_headers][294] - Collection of cross-platform one-file C/C++ libraries with no dependencies,
   primarily used for games. [``Zlib``][Zlib] or [``Unlicense``][Unlicense]
 * [pico_headers][545] - Single-header, cross-platform libraries for game development.
   [``Zlib``][Zlib] or [``Unlicense``][Unlicense]
 * [gunslinger][552] - C99, header-only framework for games and multimedia applications.
   [``BSD-3-Clause``][BSD-3-Clause]
-* [libfastcommon][656] - c common functions library copied only under the terms of
-  [``LGPL-3.0-or-later``][LGPL-3.0-or-later], detail info please see the c header files.
 
 ## Standard Libraries ##
 
