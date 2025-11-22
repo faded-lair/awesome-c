@@ -914,6 +914,8 @@ the Frameworks section.
   [``Zlib``][Zlib] or [``Unlicense``][Unlicense]
 * [gunslinger][552] - C99, header-only framework for games and multimedia applications.
   [``BSD-3-Clause``][BSD-3-Clause]
+* [libfastcommon][656] - c common functions library copied only under the terms of
+  [``LGPL-3.0-or-later``][LGPL-3.0-or-later], detail info please see the c header files.
 
 ## Standard Libraries ##
 
@@ -1951,4 +1953,5 @@ support for C.
 [653]: https://github.com/eranif/cc-wrapper
 [654]: https://github.com/rizsotto/Bear
 [655]: https://github.com/gurugio/lowlevelprogramming-university
+[656]: https://github.com/happyfish100/libfastcommon
 
