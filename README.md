@@ -351,7 +351,7 @@ work.
   single and multithread programs, user assertions, overflow, and pointer/memory safety.
   [``Apache-2.0``][Apache-2.0]
 * [GDB][87] - GNU Project debugger. [``GPL-3.0-or-later``][GPL-3.0-or-later]
-* [lldb][468] - LLVM debugger. [``NCSA``][NCSA]
+* [lldb][468] - LLVM debugger. [Apache License v2.0 with LLVM Exceptions][658]
 * [Owi][648] - A symbolic execution tool ([paper][649]) [``AGPL-3.0-or-later``][AGPL-3.0-or-later]
 * [rr][95] - Debugger that records non-deterministic executions to allow for
   deterministic debugging. [``BSD-2-Clause``][BSD-2-Clause]
