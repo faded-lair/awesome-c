@@ -907,7 +907,7 @@ the Frameworks section.
 * [zpl][602] - C99 cross-platform header-only library with many goodies.
   [``BSD-3-Clause``][BSD-3-Clause] or [``Unlicense``][Unlicense]
 * [libs][20] - Single-file public domain libraries for C/C++.
-  [``MIT``][MIT] or [``Unlicense``]Unlicense]
+  [``MIT``][MIT] or [``Unlicense``][Unlicense]
 * [cute_headers][294] - Collection of cross-platform one-file C/C++ libraries with no dependencies,
   primarily used for games. [``Zlib``][Zlib] or [``Unlicense``][Unlicense]
 * [pico_headers][545] - Single-header, cross-platform libraries for game development.
