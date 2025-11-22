@@ -575,6 +575,7 @@ to C programming.
 * [Comparison of C/POSIX standard library implementations for Linux][362]
 * [Pre-defined Compiler Macros wiki][152]
 * [Modern C features][185]
+* [How to be low-level programmer][655]
 * [Finding the best 64-bit simulation PRNG][529]
 * [SEI CERT C Coding Standard][266]
 * [tinyc.game][559] - Tiny C games you can compile and run RIGHT NOW
@@ -1947,4 +1948,5 @@ support for C.
 [652]: https://clangd.llvm.org/
 [653]: https://github.com/eranif/cc-wrapper
 [654]: https://github.com/rizsotto/Bear
+[655]: https://github.com/gurugio/lowlevelprogramming-university
 
