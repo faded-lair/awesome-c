@@ -115,7 +115,8 @@ Compilers, as well as compiler- and compilation-related tooling.
 
 * [ccache][466] - Compiler cache designed to speed up recompilation.
   [``GPL-3.0-or-later``][GPL-3.0-or-later]
-* [Clang][38] - Compiler for LLVM. [Apache License v2.0 with LLVM Exceptions][658]
+* [Clang][38] - Clang is a modern, open-source compiler front end for the C language family.
+  [Apache License v2.0 with LLVM Exceptions][658]
 * [GCC][40] - GCC (GNU Compiler Collection) is a free, open-source suite of compilers
   created by the GNU Project that supports many programming languages including C.
   [``GPL-3.0-or-later``][GPL-3.0-or-later]
