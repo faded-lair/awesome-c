@@ -1069,6 +1069,9 @@ libraries or compilers.
   [GPL-1.0-or-later][335] or [``GPL-2.0-or-later``][GPL-2.0-or-later] or
   [``GPL-3.0-or-later``][GPL-3.0-or-later]
 * [ClangCheck][502] - Static analysis tool, designed to work with Clang. [``NCSA``][NCSA]
+* [clangd][652] - clangd is a language server that can work with many editors via a plugin.
+  clangd understands your C++ code and adds smart features to your editor: code completion,
+  compile errors, go-to-definition and more. [``NCSA``][NCSA]
 * [conan.io][304] - Something of a package manager for C. [``MIT``][MIT].
 * [Cppcheck][501] - Static analysis tool. Despite the name, works well with C.
   [``GPL-3.0-or-later``][GPL-3.0-or-later]
@@ -1937,4 +1940,5 @@ support for C.
 [649]: https://hal.science/hal-04627413
 [650]: https://github.com/an-dr/microlog
 [651]: https://github.com/termbox/termbox2
+[652]: https://clangd.llvm.org/
 
