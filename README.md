@@ -905,7 +905,7 @@ the Frameworks section.
 * [tinyheaders][108] - Collection of header-only libraries, primarily oriented
   toward game development. [``Zlib``][Zlib]
 * [zpl][602] - C99 cross-platform header-only library with many goodies.
-  [``BSD-3-Clause``, ``Unlicense``][BSD-3-Clause, Unlicense]
+  [``BSD-3-Clause``][BSD-3-Clause] or [``Unlicense``]Unlicense]
 * [libs][20] - Single-file public domain libraries for C/C++.
   [``MIT``, ``Unlicense``][MIT, Unlicense]
 * [cute_headers][294] - Collection of cross-platform one-file C/C++ libraries with no dependencies,
