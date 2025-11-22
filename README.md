@@ -1077,7 +1077,7 @@ libraries or compilers.
   [Apache License v2.0 with LLVM Exceptions][658]
 * [clangd][652] - clangd is a language server that can work with many editors via a plugin.
   clangd understands your C++ code and adds smart features to your editor: code completion,
-  compile errors, go-to-definition and more. [``NCSA``][NCSA]
+  compile errors, go-to-definition and more. [Apache License v2.0 with LLVM Exceptions][658]
 * [cc-wrapper][653] - A small wrapper around CC (gcc or clang) to capture, log and generate
   `compile_commands.json` file. [``MIT``][MIT].
 * [Bear][654] - Bear is a tool that generates a compilation database for clang tooling.
