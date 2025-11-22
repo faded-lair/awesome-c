@@ -1073,7 +1073,8 @@ libraries or compilers.
 * [cinclude2dot][280] - Graphs include dependencies in a project using Graphviz.
   [GPL-1.0-or-later][335] or [``GPL-2.0-or-later``][GPL-2.0-or-later] or
   [``GPL-3.0-or-later``][GPL-3.0-or-later]
-* [ClangCheck][502] - Static analysis tool, designed to work with Clang. [``NCSA``][NCSA]
+* [ClangCheck][502] - Static analysis tool, designed to work with Clang.
+  [Apache License v2.0 with LLVM Exceptions][658]
 * [clangd][652] - clangd is a language server that can work with many editors via a plugin.
   clangd understands your C++ code and adds smart features to your editor: code completion,
   compile errors, go-to-definition and more. [``NCSA``][NCSA]
