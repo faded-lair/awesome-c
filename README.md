@@ -115,7 +115,7 @@ Compilers, as well as compiler- and compilation-related tooling.
 
 * [ccache][466] - Compiler cache designed to speed up recompilation.
   [``GPL-3.0-or-later``][GPL-3.0-or-later]
-* [Clang][38] - Compiler for LLVM. Supports C11. [``NCSA``][NCSA]
+* [Clang][38] - Compiler for LLVM. [Apache License v2.0 with LLVM Exceptions][658]
 * [cproc][574] - A C11 compiler using QBE as a backend. [``ISC``][ISC]
 * [distcc][452] - Program that allows builds to be distributed among several
   machines. [``GPL-2.0-or-later``][GPL-2.0-or-later]
