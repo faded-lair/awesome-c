@@ -1072,6 +1072,8 @@ libraries or compilers.
 * [clangd][652] - clangd is a language server that can work with many editors via a plugin.
   clangd understands your C++ code and adds smart features to your editor: code completion,
   compile errors, go-to-definition and more. [``NCSA``][NCSA]
+* [cc-wrapper][653] - A small wrapper around CC (gcc or clang) to capture, log and generate
+  `compile_commands.json` file. [``MIT``][MIT].
 * [conan.io][304] - Something of a package manager for C. [``MIT``][MIT].
 * [Cppcheck][501] - Static analysis tool. Despite the name, works well with C.
   [``GPL-3.0-or-later``][GPL-3.0-or-later]
@@ -1941,4 +1943,5 @@ support for C.
 [650]: https://github.com/an-dr/microlog
 [651]: https://github.com/termbox/termbox2
 [652]: https://clangd.llvm.org/
+[653]: https://github.com/eranif/cc-wrapper
 
