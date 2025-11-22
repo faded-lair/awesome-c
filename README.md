@@ -116,6 +116,9 @@ Compilers, as well as compiler- and compilation-related tooling.
 * [ccache][466] - Compiler cache designed to speed up recompilation.
   [``GPL-3.0-or-later``][GPL-3.0-or-later]
 * [Clang][38] - Compiler for LLVM. [Apache License v2.0 with LLVM Exceptions][658]
+* [GCC][40] - GCC (GNU Compiler Collection) is a free, open-source suite of compilers
+  created by the GNU Project that supports many programming languages including C.
+  [``GPL-3.0-or-later``][GPL-3.0-or-later]
 * [cproc][574] - A C11 compiler using QBE as a backend. [``ISC``][ISC]
 * [distcc][452] - Program that allows builds to be distributed among several
   machines. [``GPL-2.0-or-later``][GPL-2.0-or-later]
@@ -123,8 +126,6 @@ Compilers, as well as compiler- and compilation-related tooling.
   representation, optimizations and assembly code generation suitable for use in
   compilers. Comes with an example C front-end under the same
   license. [``LGPL-2.1-only``][LGPL-2.1-only]
-* [GCC][40] - Provides a C compiler as part of its compiler set. Supports
-  C11. [``GPL-3.0-or-later``][GPL-3.0-or-later]
 * [OrangeC][631] - OrangeC Compiler And Tool Chain. [Various licenses][632]
 
 ## Compression ##
