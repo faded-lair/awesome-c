@@ -1074,6 +1074,8 @@ libraries or compilers.
   compile errors, go-to-definition and more. [``NCSA``][NCSA]
 * [cc-wrapper][653] - A small wrapper around CC (gcc or clang) to capture, log and generate
   `compile_commands.json` file. [``MIT``][MIT].
+* [Bear][654] - Bear is a tool that generates a compilation database for clang tooling.
+  [``GPL-3.0-or-later``][GPL-3.0-or-later]
 * [conan.io][304] - Something of a package manager for C. [``MIT``][MIT].
 * [Cppcheck][501] - Static analysis tool. Despite the name, works well with C.
   [``GPL-3.0-or-later``][GPL-3.0-or-later]
@@ -1944,4 +1946,5 @@ support for C.
 [651]: https://github.com/termbox/termbox2
 [652]: https://clangd.llvm.org/
 [653]: https://github.com/eranif/cc-wrapper
+[654]: https://github.com/rizsotto/Bear
 
