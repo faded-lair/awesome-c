@@ -909,7 +909,7 @@ the Frameworks section.
 * [libs][20] - Single-file public domain libraries for C/C++.
   [``MIT``][MIT] or [``Unlicense``]Unlicense]
 * [cute_headers][294] - Collection of cross-platform one-file C/C++ libraries with no dependencies,
-  primarily used for games. [``Zlib``, ``Unlicense``][Zlib, Unlicense]
+  primarily used for games. [``Zlib``][Zlib] or [``Unlicense``][Unlicense]
 * [pico_headers][545] - Single-header, cross-platform libraries for game development.
   [``Zlib``, ``Unlicense``][Zlib, Unlicense]
 * [gunslinger][552] - C99, header-only framework for games and multimedia applications.
