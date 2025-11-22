@@ -352,6 +352,7 @@ work.
   [``Apache-2.0``][Apache-2.0]
 * [GDB][87] - GNU Project debugger. [``GPL-3.0-or-later``][GPL-3.0-or-later]
 * [lldb][468] - LLVM debugger. [``NCSA``][NCSA]
+* [Owi][648] - A symbolic execution tool ([paper][649]) [``AGPL-3.0-or-later``][AGPL-3.0-or-later]
 * [rr][95] - Debugger that records non-deterministic executions to allow for
   deterministic debugging. [``BSD-2-Clause``][BSD-2-Clause]
 * [Valgrind][85] - Range of dynamic analysis tools, including a leak
@@ -1038,6 +1039,7 @@ device types (such as logic analyzers, oscilloscopes, multimeters, and more). [`
 * [minctest][394] - Unit testing microlibrary. [``BSD-3-Clause``][BSD-3-Clause]
 * [munit][392] - Small unit testing framework. [``MIT``][MIT]
 * [Nala][560] - A test framework for C projects. [``MIT``][MIT]
+* [Owi][648] - A bug-finding tool built on symbolic execution ([paper][649]) [``AGPL-3.0-or-later``][AGPL-3.0-or-later]
 * [Rexo][563] - Framework for C89/C++ featuring automatic registration of tests and a polished API.
   [``Unlicense``][Unlicense]
 * [Tau][609] -  A Micro Unit testing framework for C/C++ (~1k lines of code).
@@ -1928,4 +1930,6 @@ support for C.
 [645]: https://github.com/eduard-permyakov/permafrost-engine
 [646]: https://github.com/matrixcascade/PainterEngine
 [647]: https://github.com/nicbarker/clay/
+[648]: https://github.com/OCamlPro/owi
+[649]: https://hal.science/hal-04627413
 
