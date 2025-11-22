@@ -1021,7 +1021,8 @@ This includes libraries for things like XML, JSON, CSV, and other similar format
 ## Signal Processing ##
 
 * [libsigrok][578] -  signal analysis software suite that supports various
-device types (such as logic analyzers, oscilloscopes, multimeters, and more). [``GPL``][GPL]
+  device types (such as logic analyzers, oscilloscopes, multimeters, and more).
+  [``GPL-3.0-or-later``][GPL-3.0-or-later]
 
 ## Testing ##
 
