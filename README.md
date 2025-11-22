@@ -593,6 +593,7 @@ to C programming.
 * [POSIX Threads Programming tutorial][263] (a little dated, but most of it is
   still valid and useful)
 * [The GNU C Programming Tutorial][212] (online PDF)
+* [GNU C Language Manual][657] (online PDF)
 * [Templating in C][267]
 * [What a C programmer should know about memory][227]
 * [CodeforWin: Learn C Programming, Data Structures Tutorials and Exercises online][605]
@@ -1954,4 +1955,4 @@ support for C.
 [654]: https://github.com/rizsotto/Bear
 [655]: https://github.com/gurugio/lowlevelprogramming-university
 [656]: https://github.com/happyfish100/libfastcommon
-
+[657]: https://raw.githubusercontent.com/VernonGrant/gnu-c-language-manual/main/gnu-c-language-manual.pdf
