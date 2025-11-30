@@ -2,7 +2,7 @@
 
 A curated list of C good stuff. This list contains only [open source](https://opensource.org/osd) code (as defined by the linked Open Source Definition), and sellers who aren't evil for physical resources.
 
-This is released under a Creative Commons-Attribution-ShareAlike license, version 4 (SPDX code CC-BY-SA-4.0). You can find its text in the LICENSE file.
+This is released under a Creative Commons-Attribution-ShareAlike license, version 4 (SPDX code ``CC-BY-SA-4.0``). You can find its text in the LICENSE file.
 
 **An important note:** This project does not index anything C++-related; only pure C stuff is considered.
 
@@ -847,3 +847,38 @@ Technologies designed to bring Windows into the 21st century with respect to sup
 - [MinGW-w64](https://www.mingw-w64.org/) - Minimalist environment for C development on Windows with 64 bit support. [Various licenses, all open source](http://mingw.org/license).
 - [MSYS2](http://msys2.github.io/) - Minimal SYStem 2; aims to provide support for a POSIX environment on Windows, with a package manager based on Arch Linux's pacman. Packages have individual licenses, otherwise, as MinGW and Cygwin.
 - [w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows. [busybox-w32](https://github.com/rmyorston/busybox-w32) is [GPL-2.0-only](https://spdx.org/licenses/GPL-2.0-only.html). [pdpmake](https://github.com/rmyorston/pdpmake) is Public Domain. w64devkit itself is [Unlicense](https://spdx.org/licenses/Unlicense.html). Note: default Make implementation is GNU Make.
+
+[AFL-2.1]: https://spdx.org/licenses/AFL-2.1.html
+[AGPL-3.0-only]: https://spdx.org/licenses/AGPL-3.0-only.html
+[AGPL-3.0-or-later]: https://spdx.org/licenses/AGPL-3.0-or-later.html
+[Apache-2.0]: https://spdx.org/licenses/Apache-2.0.html
+[BSD-1-Clause]: https://spdx.org/licenses/BSD-1-Clause.html
+[BSD-2-Clause]: https://spdx.org/licenses/BSD-2-Clause.html
+[BSD-3-Clause]: https://spdx.org/licenses/BSD-3-Clause.html
+[BSD-4-Clause]: https://spdx.org/licenses/BSD-4-Clause.html
+[CC0-1.0]: https://spdx.org/licenses/CC0-1.0.html
+[CC-BY-SA-4.0]: https://spdx.org/licenses/CC-BY-SA-4.0.html
+[curl]: https://spdx.org/licenses/curl.html
+[GPL-2.0-only]: https://spdx.org/licenses/GPL-2.0-only.html
+[GPL-2.0-or-later]: https://spdx.org/licenses/GPL-2.0-or-later.html
+[GPL-3.0-only]: https://spdx.org/licenses/GPL-3.0-only.html
+[GPL-3.0-or-later]: https://spdx.org/licenses/GPL-3.0-or-later.html
+[ICU]: https://spdx.org/licenses/ICU.html
+[ISC]: https://spdx.org/licenses/ISC.html
+[LGPL-2.0-or-later]: https://spdx.org/licenses/LGPL-2.0-or-later.html
+[LGPL-2.1-only]: https://spdx.org/licenses/LGPL-2.1-only.html
+[LGPL-2.1-or-later]: https://spdx.org/licenses/LGPL-2.1-or-later.html
+[LGPL-3.0-only]: https://spdx.org/licenses/LGPL-3.0-only.html
+[LGPL-3.0-or-later]: https://spdx.org/licenses/LGPL-3.0-or-later.html
+[Libpng]: https://spdx.org/licenses/Libpng.html
+[MIT]: https://spdx.org/licenses/MIT.html
+[MIT-0]: https://spdx.org/licenses/MIT-0.html
+[MPL-2.0]: https://spdx.org/licenses/MPL-2.0.html
+[NCSA]: https://spdx.org/licenses/NCSA.html
+[OLDAP-2.8]: https://spdx.org/licenses/OLDAP-2.8.html
+[PostgreSQL]: https://spdx.org/licenses/PostgreSQL.html
+[TCL]: https://spdx.org/licenses/TCL.html
+[Unlicense]: https://spdx.org/licenses/Unlicense.html
+[WTFPL]: https://spdx.org/licenses/WTFPL.html
+[X11]: https://spdx.org/licenses/X11.html
+[Zlib]: https://spdx.org/licenses/Zlib.html
