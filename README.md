@@ -397,7 +397,7 @@ Resources for learning C programming in general, or something useful relating to
 - [A tutorial on portable Makefiles](http://nullprogram.com/blog/2017/08/20/)
 - [Building C Projects](http://nethack4.org/blog/building-c.html)
 - [C Programming Wikibook](https://en.wikibooks.org/wiki/C_Programming)
-- [Introduction to \`fun' C](https://gist.github.com/eatonphil/21b3d6569f24ad164365)
+- [Introduction to "Fun" C (using GCC)](https://gist.github.com/eatonphil/21b3d6569f24ad164365)
 - [Learning C with GDB](https://www.recurse.com/blog/5-learning-c-with-gdb)
 - [memcpy vs memmove](https://web.archive.org/web/20170620131430/https://www.tedunangst.com/flak/post/memcpy-vs-memmove)
 - [POSIX Threads Programming tutorial](https://computing.llnl.gov/tutorials/pthreads/) (a little dated, but most of it is still valid and useful)
