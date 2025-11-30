@@ -674,6 +674,7 @@ This includes libraries for things like XML, JSON, CSV, and other similar format
 - [parson](https://github.com/kgabis/parson) - Two-file, C89-compatible JSON parser. [MIT](https://spdx.org/licenses/MIT.html)
 - [WJElement](https://github.com/netmail-open/wjelement/) - Advanced JSON manipulation library, with support for JSON Schema. [LGPL-2.0-or-later](https://spdx.org/licenses/LGPL-2.0-or-later.html) or [LGPL-2.1-or-later](https://spdx.org/licenses/LGPL-2.1-or-later.html) or [LGPL-3.0-or-later](https://spdx.org/licenses/LGPL-3.0-or-later.html)
 - [YAJL](https://lloyd.github.io/yajl/) - Fast streaming JSON parser library. [ISC](https://spdx.org/licenses/ISC.html)
+- [JsonX](https://github.com/embedmind/JsonX) - Lightweight JSON mapping layer for microcontrollers and RTOS. Thin wrapper around cJSON with static memory pools and struct  mapping. [``MIT``][MIT]
 
 ### INI
 
