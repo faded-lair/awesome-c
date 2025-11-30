@@ -844,7 +844,7 @@ Comprehensive and integrated solutions for building the next brilliant web appli
 Technologies designed to bring Windows into the 21st century with respect to support for C.
 
 - [Cygwin](https://cygwin.com/) - Designed to emulate a POSIX-compatible environment extensively under Windows. [Various licenses, all open source](https://cygwin.com/licensing.html).
-- [MinGW-w64](https://www.mingw-w64.org/) - Minimalist environment for C development on Windows with 64 bit support. [Various licenses, all open source](http://mingw.org/license).
+- [MinGW-w64](https://www.mingw-w64.org/) - Minimalist environment for C development on Windows with 64 bit support. Various licenses, all open source.
 - [MSYS2](http://msys2.github.io/) - Minimal SYStem 2; aims to provide support for a POSIX environment on Windows, with a package manager based on Arch Linux's pacman. Packages have individual licenses, otherwise, as MinGW and Cygwin.
 - [w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows. [busybox-w32](https://github.com/rmyorston/busybox-w32) is [GPL-2.0-only](https://spdx.org/licenses/GPL-2.0-only.html). [pdpmake](https://github.com/rmyorston/pdpmake) is Public Domain. w64devkit itself is [Unlicense](https://spdx.org/licenses/Unlicense.html). Note: default Make implementation is GNU Make.
 
