@@ -1469,8 +1469,6 @@ support for C.
 [165]: https://gnu.org/software/libmicrohttpd/
 [166]: https://github.com/Water-Melon/Melon
 [167]: https://github.com/gpakosz/whereami
-[168]: 
-[169]: 
 [170]: https://www.coralbits.com/libonion/
 [171]: https://cesanta.com
 [172]: https://risoflora.github.io/libsagui/
@@ -1490,10 +1488,7 @@ support for C.
 [186]: https://wiki.gnome.org/Projects/GLib
 [187]: https://github.com/dvidelabs/flatcc
 [188]: http://apophenia.info
-[189]: 
 [190]: https://github.com/swenson/sort
-[191]: 
-[192]: 
 [193]: https://libjpeg-turbo.virtualgl.org/
 [194]: https://www.libjpeg-turbo.org/About/License
 [195]: http://libccv.org/
@@ -1516,11 +1511,7 @@ support for C.
 [212]: http://www.crasseux.com/books/ctut.pdf
 [213]: https://pdos.csail.mit.edu/6.828/2017/readings/pointers.pdf
 [214]: https://github.com/adamierymenko/huffandpuff
-[215]: 
-[216]: 
 [217]: https://github.com/clibequilibrium/EquilibriumEngine
-[218]: 
-[219]: 
 [220]: https://github.com/DanielGibson/Snippets/
 [221]: https://github.com/id-Software/Quake-2
 [222]: http://www.etpan.org
@@ -1552,7 +1543,6 @@ support for C.
 [248]: https://en.wikibooks.org/wiki/C_Programming
 [249]: https://github.com/rmyorston/busybox-w32
 [250]: https://github.com/rmyorston/pdpmake
-[251]: 
 [252]: http://mingw.org/license
 [253]: https://cygwin.com/
 [254]: https://cygwin.com/licensing.html
@@ -1560,8 +1550,6 @@ support for C.
 [256]: http://pari.math.u-bordeaux.fr/
 [257]: http://blog.noctua-software.com/c-tricks.html
 [258]: https://viewsourcecode.org/snaptoken/kilo/
-[259]: 
-[260]: 
 [261]: https://github.com/JonnyWhatshisface/libwebsock
 [262]: http://c-faq.com/
 [263]: https://computing.llnl.gov/tutorials/pthreads/
@@ -1579,15 +1567,12 @@ support for C.
 [275]: http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html
 [276]: https://github.com/ryanmjacobs/c
 [277]: http://wolkykim.github.io/qlibc
-[278]: 
 [279]: https://gist.github.com/eatonphil/21b3d6569f24ad164365
 [280]: https://www.flourish.org/cinclude2dot/
 [281]: http://www.dyncall.org/
 [282]: http://www.mcs.anl.gov/petsc/
 [283]: http://slepc.upv.es/
 [284]: https://github.com/open-mpi/ompi
-[285]: 
-[286]: 
 [287]: https://www.mingw-w64.org/
 [288]: https://github.com/google/sanitizers
 [289]: https://github.com/include-what-you-use/include-what-you-use
@@ -1614,7 +1599,6 @@ support for C.
 [310]: https://github.com/0intro/libelf
 [311]: https://github.com/matze/oclkit
 [312]: http://tuxfan.github.io/ocl-mla/
-[313]: 
 [314]: http://astyle.sourceforge.net/
 [315]: https://www.gnu.org/software/indent/
 [316]: http://www.feynarts.de/cuba/
@@ -1622,7 +1606,6 @@ support for C.
 [318]: http://www.doxygen.nl/
 [319]: https://github.com/google/cpu_features
 [320]: https://www.gnu.org/software/ddd/ddd.html
-[321]: 
 [322]: https://hplgit.github.io/doconce/doc/web/index.html
 [323]: https://github.com/sheredom/subprocess.h
 [324]: https://www.gnu.org/software/make/
@@ -1641,9 +1624,7 @@ support for C.
 [337]: https://github.com/jtsiomb/kdtree
 [338]: http://www.oberhumer.com/opensource/lzo/
 [339]: http://www.nlnetlabs.nl/projects/ldns/index.html
-[340]: 
 [341]: https://www.pyyaml.org/wiki/LibYAML
-[342]: 
 [343]: https://www.chiark.greenend.org.uk/~sgtatham/mp/
 [344]: https://brechtsanders.github.io/xlsxio/
 [345]: https://github.com/jeremyevans/ape_tag_libs/tree/master/c
@@ -1682,7 +1663,6 @@ support for C.
 [378]: https://github.com/ludocode/mpack
 [379]: https://msgpack.org/
 [380]: http://www.oracle.com/us/products/database/berkeley-db
-[381]: 
 [382]: http://www.libpng.org/
 [383]: https://github.com/wooorm/stmr.c
 [384]: http://cairographics.org/
@@ -1710,14 +1690,12 @@ support for C.
 [406]: https://github.com/srdja/Collections-C
 [407]: https://github.com/Juniper/libxo
 [408]: https://github.com/Immediate-Mode-UI/Nuklear
-[409]: 
 [410]: https://www.spinellis.gr/cscout/
 [411]: https://liblfds.org/
 [412]: https://codeplea.com/genann
 [413]: https://github.com/cofyc/argparse
 [414]: https://github.com/anholt/libepoxy
 [415]: https://kore.io/
-[416]: 
 [417]: https://wiki.gnome.org/Projects/LibRsvg
 [418]: http://shop.oreilly.com/product/0636920033844.do
 [419]: https://github.com/zeromq/zyre
@@ -1960,4 +1938,3 @@ support for C.
 [656]: https://github.com/happyfish100/libfastcommon
 [657]: https://raw.githubusercontent.com/VernonGrant/gnu-c-language-manual/main/gnu-c-language-manual.pdf
 [658]: https://llvm.org/LICENSE.txt
-
